@@ -1,4 +1,4 @@
-import { COLOR_SORTS } from './constants'
+import { COLOR_SORTS } from '@/lib/constants'
 
 export type Color = {
 	id: string
@@ -10,6 +10,18 @@ export type Color = {
 export type RGB = {
 	r: number
 	g: number
+	b: number
+}
+
+export type XYZ = {
+	x: number
+	y: number
+	z: number
+}
+
+export type LAB = {
+	l: number
+	a: number
 	b: number
 }
 

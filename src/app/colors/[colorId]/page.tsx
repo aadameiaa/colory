@@ -1,13 +1,14 @@
 'use client'
 
 import { ArrowLeftIcon, ArrowRightIcon, HomeIcon } from 'lucide-react'
+import { useRouter } from 'next/navigation'
 
-import { Button } from '@/components/ui/button'
-
+import ClosestColors from '@/components/color/closest-colors'
 import FavoriteButton from '@/components/color/favorite-button'
 import CopyButton from '@/components/global/copy-button'
+import { Button } from '@/components/ui/button'
+
 import { useColors } from '@/store/color'
-import { useRouter } from 'next/navigation'
 
 export default function ColorPage({
 	params: { colorId },
@@ -87,6 +88,7 @@ export default function ColorPage({
 					variant="outline"
 				/>
 			</section>
+			<ClosestColors color={color} colors={colors} />
 		</main>
 	)
 }

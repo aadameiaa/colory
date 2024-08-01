@@ -42,7 +42,10 @@ export default function Palettes({
 				gridTemplateColumns: gridAutoColumn('fill', '250px', '1fr'),
 				...style,
 			}}
-			className={cn('grid gap-4', className)}
+			className={cn(
+				'mx-auto grid flex-1 place-content-start gap-4 px-6 md:max-w-xl',
+				className,
+			)}
 			{...props}
 		>
 			{filteredColors.map((color) => (
