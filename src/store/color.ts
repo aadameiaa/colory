@@ -7,17 +7,20 @@ import { Color } from '@/lib/types'
 type ColorState = {
 	colors: Color[]
 	favoriteColorIds: Color['id'][]
+	backgroundColor: Color | null
 }
 
 type ColorActions = {
 	actions: {
 		toggleFavoriteColor: (colorId: Color['id']) => void
+		toggleBackgroundColor: (color: Color) => void
 	}
 }
 
 const initialState: ColorState = {
 	colors: [...vinilexColors],
 	favoriteColorIds: [],
+	backgroundColor: null,
 }
 
 const colorStore = create<ColorState & ColorActions>()(
@@ -32,6 +35,13 @@ const colorStore = create<ColorState & ColorActions>()(
 						)
 							? state.favoriteColorIds.filter((id) => id !== colorId)
 							: [...state.favoriteColorIds, colorId],
+					})),
+				toggleBackgroundColor: (color) =>
+					set((state) => ({
+						backgroundColor:
+							state.backgroundColor && state.backgroundColor.id === color.id
+								? null
+								: color,
 					})),
 			},
 		}),
@@ -49,4 +59,6 @@ const colorStore = create<ColorState & ColorActions>()(
 export const useColors = () => colorStore((state) => state.colors)
 export const useFavoriteColorIds = () =>
 	colorStore((state) => state.favoriteColorIds)
+export const useBackgroundColor = () =>
+	colorStore((state) => state.backgroundColor)
 export const useColorActions = () => colorStore((state) => state.actions)
