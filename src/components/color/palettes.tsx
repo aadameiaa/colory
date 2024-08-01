@@ -3,17 +3,24 @@
 import { useSearchParams } from 'next/navigation'
 
 import Palette from '@/components/color/palette'
-import { ScrollArea } from '@/components/ui/scroll-area'
 
 import { FILTERS_PARAM, QUERY_PARAM, SORT_PARAM } from '@/lib/constants'
 import { ColorSort } from '@/lib/types'
-import { applyColorFilters, getIsFavorited, gridAutoColumn } from '@/lib/utils'
+import {
+	applyColorFilters,
+	cn,
+	getIsFavorited,
+	gridAutoColumn,
+} from '@/lib/utils'
 import { useColors, useFavoriteColorIds } from '@/store/color'
 
-interface PalettesProps
-	extends React.ComponentPropsWithoutRef<typeof ScrollArea> {}
+interface PalettesProps extends React.ComponentPropsWithoutRef<'section'> {}
 
-export default function Palettes(props: PalettesProps) {
+export default function Palettes({
+	style,
+	className,
+	...props
+}: PalettesProps) {
 	const colors = useColors()
 	const favoriteColorIds = useFavoriteColorIds()
 	const searchParams = useSearchParams()
@@ -30,15 +37,17 @@ export default function Palettes(props: PalettesProps) {
 	})
 
 	return (
-		<ScrollArea {...props}>
-			<section
-				style={{ gridTemplateColumns: gridAutoColumn('fill', '250px', '1fr') }}
-				className="grid gap-4"
-			>
-				{filteredColors.map((color) => (
-					<Palette key={color.id} color={color} />
-				))}
-			</section>
-		</ScrollArea>
+		<section
+			style={{
+				gridTemplateColumns: gridAutoColumn('fill', '250px', '1fr'),
+				...style,
+			}}
+			className={cn('grid gap-4', className)}
+			{...props}
+		>
+			{filteredColors.map((color) => (
+				<Palette key={color.id} color={color} />
+			))}
+		</section>
 	)
 }

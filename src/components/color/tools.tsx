@@ -29,7 +29,7 @@ export default function Tools({
 		variant: 'ghost',
 		size: 'icon',
 		className: cn(
-			'size-8 shrink-0',
+			'shrink-0',
 			textColor,
 			isTextDarkColor
 				? 'hover:bg-foreground hover:text-background'

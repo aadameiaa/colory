@@ -100,19 +100,19 @@ export function applyColorFilters(
 
 export function applyColorSort(colors: Color[], sort: ColorSort): Color[] {
 	switch (sort) {
-		case 'increment-name':
+		case 'asc-name':
 			return colors.sort((a, b) =>
 				a.name.toLowerCase() <= b.name.toLowerCase() ? -1 : 1,
 			)
-		case 'decrement-name':
+		case 'desc-name':
 			return colors.sort((a, b) =>
 				a.name.toLowerCase() > b.name.toLowerCase() ? -1 : 1,
 			)
-		case 'increment-code':
+		case 'asc-code':
 			return colors.sort((a, b) =>
 				a.code.toLowerCase() <= b.code.toLowerCase() ? -1 : 1,
 			)
-		case 'decrement-code':
+		case 'desc-code':
 			return colors.sort((a, b) =>
 				a.code.toLowerCase() > b.code.toLowerCase() ? -1 : 1,
 			)

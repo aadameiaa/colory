@@ -16,9 +16,9 @@ export default function Palette({ color }: PaletteProps) {
 	return (
 		<div
 			style={{ backgroundColor: color.hexCode }}
-			className="group/palette flex h-32 flex-col rounded-md p-2 shadow-md"
+			className="group/palette flex h-32 flex-col rounded-md shadow-md"
 		>
-			<div className="flex items-center justify-between gap-4">
+			<div className="flex items-center justify-between gap-4 p-2">
 				<Tools
 					colorId={color.id}
 					hexCode={color.hexCode}
@@ -26,7 +26,7 @@ export default function Palette({ color }: PaletteProps) {
 				/>
 				<FavoriteButton color={color} />
 			</div>
-			<div className={cn('mt-auto flex justify-between gap-2', textColor)}>
+			<div className={cn('mt-auto flex justify-between gap-2 p-4', textColor)}>
 				<p>{color.name}</p>
 				<p>{color.code}</p>
 			</div>

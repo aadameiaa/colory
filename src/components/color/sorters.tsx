@@ -32,10 +32,10 @@ export default function Sorters() {
 	}
 
 	const sorters: { id: ColorSort; icon: LucideIcon }[] = [
-		{ id: 'increment-name', icon: ArrowDownAZIcon },
-		{ id: 'decrement-name', icon: ArrowUpZAIcon },
-		{ id: 'increment-code', icon: ArrowDown01Icon },
-		{ id: 'decrement-code', icon: ArrowUp10Icon },
+		{ id: 'asc-name', icon: ArrowDownAZIcon },
+		{ id: 'desc-name', icon: ArrowUpZAIcon },
+		{ id: 'asc-code', icon: ArrowDown01Icon },
+		{ id: 'desc-code', icon: ArrowUp10Icon },
 	]
 
 	return (

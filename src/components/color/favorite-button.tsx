@@ -30,7 +30,7 @@ export default function FavoriteButton({ color }: FavoriteButtonProps) {
 			variant="ghost"
 			size="icon"
 			className={cn(
-				'group/heart-button size-8 shrink-0 hover:bg-transparent',
+				'group/heart-button shrink-0 hover:bg-transparent',
 				textColor,
 				isTextDarkColor ? 'hover:text-foreground' : 'hover:text-background',
 			)}

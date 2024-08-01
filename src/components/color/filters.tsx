@@ -29,7 +29,7 @@ export default function Filters() {
 	}
 
 	return (
-		<div className="flex items-center justify-center gap-4">
+		<div className="flex items-center justify-center gap-2">
 			<Sorters />
 			<Separator orientation="vertical" className="h-[30px] w-[2px]" />
 			<Button

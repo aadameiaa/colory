@@ -1,8 +1,8 @@
 export const COLOR_SORTS = [
-	'increment-name',
-	'decrement-name',
-	'increment-code',
-	'decrement-code',
+	'asc-name',
+	'desc-name',
+	'asc-code',
+	'desc-code',
 ] as const
 
 export const QUERY_PARAM = 'query'
