@@ -4,6 +4,7 @@ import { useEffect, useState } from 'react'
 
 import Filters from '@/components/color/filters'
 import Search from '@/components/color/search'
+
 import { cn } from '@/lib/utils'
 
 export default function Navbar() {

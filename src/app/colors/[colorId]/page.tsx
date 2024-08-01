@@ -1,9 +1,11 @@
 'use client'
 
-import { ArrowLeftIcon, ArrowRightIcon } from 'lucide-react'
+import { ArrowLeftIcon, ArrowRightIcon, HomeIcon } from 'lucide-react'
 
 import { Button } from '@/components/ui/button'
 
+import FavoriteButton from '@/components/color/favorite-button'
+import CopyButton from '@/components/global/copy-button'
 import { useColors } from '@/store/color'
 import { useRouter } from 'next/navigation'
 
@@ -29,6 +31,10 @@ export default function ColorPage({
 		const nextColor = colors[index === lastIndex ? 0 : index + 1]
 
 		router.push(`/colors/${nextColor.id}`)
+	}
+
+	const handleHomeClick = () => {
+		router.push('/')
 	}
 
 	return (
@@ -59,6 +65,27 @@ export default function ColorPage({
 				>
 					<ArrowRightIcon className="size-4 shrink-0" />
 				</Button>
+			</section>
+			<section className="mx-auto flex size-fit w-[222px] items-center gap-2">
+				<Button
+					variant="outline"
+					size="icon"
+					className="shrink-0"
+					onClick={handleHomeClick}
+				>
+					<HomeIcon className="size-4 shrink-0" />
+				</Button>
+				<FavoriteButton
+					colorId={color.id}
+					hexCode={color.hexCode}
+					variant="outline"
+					size="icon"
+				/>
+				<CopyButton
+					text={color.hexCode}
+					label={color.hexCode}
+					variant="outline"
+				/>
 			</section>
 		</main>
 	)

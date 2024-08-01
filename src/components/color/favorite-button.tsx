@@ -2,45 +2,39 @@
 
 import { HeartIcon } from 'lucide-react'
 
-import { Button } from '@/components/ui/button'
+import { Button, ButtonProps } from '@/components/ui/button'
 
 import { Color } from '@/lib/types'
-import {
-	cn,
-	getIsFavoriteColor,
-	getIsTextDarkColor,
-	getOppositeContrast,
-} from '@/lib/utils'
+import { cn, getIsFavoriteColor } from '@/lib/utils'
 import { useColorActions, useFavoriteColorIds } from '@/store/color'
 
-interface FavoriteButtonProps {
-	color: Color
+interface FavoriteButtonProps extends ButtonProps {
+	colorId: Color['id']
+	hexCode: Color['hexCode']
 }
 
-export default function FavoriteButton({ color }: FavoriteButtonProps) {
+export default function FavoriteButton({
+	colorId,
+	hexCode,
+	className,
+	...props
+}: FavoriteButtonProps) {
 	const favoriteColorIds = useFavoriteColorIds()
 	const colorActions = useColorActions()
 
-	const textColor = getOppositeContrast(color.hexCode)
-	const isTextDarkColor = getIsTextDarkColor(color.hexCode)
-	const isFavoriteColor = getIsFavoriteColor(favoriteColorIds, color.id)
+	const isFavoriteColor = getIsFavoriteColor(favoriteColorIds, colorId)
 
 	return (
 		<Button
-			variant="ghost"
-			size="icon"
-			className={cn(
-				'group/heart-button shrink-0 hover:bg-transparent',
-				textColor,
-				isTextDarkColor ? 'hover:text-foreground' : 'hover:text-background',
-			)}
-			onClick={() => colorActions.toggleFavoriteColor(color.id)}
+			className={cn('group/favorite-button shrink-0', className)}
+			onClick={() => colorActions.toggleFavoriteColor(colorId)}
+			{...props}
 		>
 			<HeartIcon
 				className={cn(
-					'size-4 shrink-0 transition-colors group-hover/heart-button:fill-transparent/20',
+					'size-4 shrink-0 transition-colors group-hover/favorite-button:fill-transparent/20',
 					isFavoriteColor &&
-						'fill-red-400 group-hover/heart-button:fill-red-200',
+						'fill-red-400 group-hover/favorite-button:fill-red-200',
 				)}
 			/>
 		</Button>
