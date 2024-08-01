@@ -13,7 +13,7 @@ type ColorState = {
 type ColorActions = {
 	actions: {
 		toggleFavoriteColor: (colorId: Color['id']) => void
-		toggleBackgroundColor: (color: Color) => void
+		toggleBackgroundColor: (colorId: Color['id']) => void
 	}
 }
 
@@ -36,12 +36,12 @@ const colorStore = create<ColorState & ColorActions>()(
 							? state.favoriteColorIds.filter((id) => id !== colorId)
 							: [...state.favoriteColorIds, colorId],
 					})),
-				toggleBackgroundColor: (color) =>
+				toggleBackgroundColor: (colorId) =>
 					set((state) => ({
 						backgroundColor:
-							state.backgroundColor && state.backgroundColor.id === color.id
+							state.backgroundColor && state.backgroundColor.id === colorId
 								? null
-								: color,
+								: state.colors.find((color) => color.id === colorId),
 					})),
 			},
 		}),

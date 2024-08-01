@@ -16,10 +16,14 @@ export default function Palette({ color }: PaletteProps) {
 	return (
 		<div
 			style={{ backgroundColor: color.hexCode }}
-			className="flex h-32 flex-col rounded-md p-2 shadow-md"
+			className="group/palette flex h-32 flex-col rounded-md p-2 shadow-md"
 		>
 			<div className="flex items-center justify-between gap-4">
-				<Tools color={color} />
+				<Tools
+					colorId={color.id}
+					hexCode={color.hexCode}
+					className="invisible opacity-0 transition-all duration-300 ease-in group-hover/palette:visible group-hover/palette:opacity-100 group-hover/palette:transition-all group-hover/palette:duration-500 group-hover/palette:ease-out"
+				/>
 				<FavoriteButton color={color} />
 			</div>
 			<div className={cn('mt-auto flex justify-between gap-2', textColor)}>

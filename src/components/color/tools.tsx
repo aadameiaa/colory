@@ -9,15 +9,21 @@ import { Color } from '@/lib/types'
 import { cn, getIsTextDarkColor, getOppositeContrast } from '@/lib/utils'
 import { useColorActions } from '@/store/color'
 
-interface ToolsProps {
-	color: Color
+interface ToolsProps extends React.ComponentPropsWithoutRef<'div'> {
+	colorId: Color['id']
+	hexCode: Color['hexCode']
 }
 
-export default function Tools({ color }: ToolsProps) {
+export default function Tools({
+	colorId,
+	hexCode,
+	className,
+	...props
+}: ToolsProps) {
 	const colorActions = useColorActions()
 
-	const textColor = getOppositeContrast(color.hexCode)
-	const isTextDarkColor = getIsTextDarkColor(color.hexCode)
+	const textColor = getOppositeContrast(hexCode)
+	const isTextDarkColor = getIsTextDarkColor(hexCode)
 
 	const styles: ButtonProps = {
 		variant: 'ghost',
@@ -32,14 +38,14 @@ export default function Tools({ color }: ToolsProps) {
 	}
 
 	return (
-		<div className="flex items-center gap-2">
+		<div className={cn('flex items-center gap-2', className)} {...props}>
 			<Button
 				{...styles}
-				onClick={() => colorActions.toggleBackgroundColor(color)}
+				onClick={() => colorActions.toggleBackgroundColor(colorId)}
 			>
 				<BrushIcon className="size-4 shrink-0" />
 			</Button>
-			<CopyButton text={color.hexCode} {...styles} />
+			<CopyButton text={hexCode} {...styles} />
 		</div>
 	)
 }
