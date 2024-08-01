@@ -1,5 +1,6 @@
 'use client'
 
+import Filters from '@/components/color/filters'
 import Palettes from '@/components/color/palettes'
 import Search from '@/components/color/search'
 
@@ -15,8 +16,9 @@ export default function HomePage() {
 			}}
 			className="flex h-dvh flex-col gap-4 py-6 transition-colors"
 		>
-			<section className="flex flex-col px-6">
+			<section className="flex items-center justify-between gap-4 px-6">
 				<Search />
+				<Filters />
 			</section>
 			<Palettes className="flex-1 px-6" />
 		</main>

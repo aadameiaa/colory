@@ -1,6 +1,7 @@
 import { type ClassValue, clsx } from 'clsx'
 import { twMerge } from 'tailwind-merge'
 
+import { FAVORITED_VALUE } from '@/lib/constants'
 import { Color, RGB } from '@/lib/types'
 
 export function cn(...inputs: ClassValue[]) {
@@ -67,7 +68,11 @@ export async function copyToClipboard(text: string) {
 
 export function applyColorFilters(
 	colors: Color[],
-	{ query }: { query?: string } = { query: '' },
+	favoriteColorIds: Color['id'][],
+	{ query, isFavorited }: { query?: string; isFavorited: boolean } = {
+		query: '',
+		isFavorited: false,
+	},
 ): Color[] {
 	let filteredColors = [...colors]
 
@@ -79,5 +84,15 @@ export function applyColorFilters(
 		)
 	}
 
+	if (isFavorited) {
+		filteredColors = filteredColors.filter((color) =>
+			Boolean(favoriteColorIds.find((colorId) => colorId === color.id)),
+		)
+	}
+
 	return filteredColors
+}
+
+export function getIsFavorited(filters: string): boolean {
+	return filters.includes(FAVORITED_VALUE)
 }
