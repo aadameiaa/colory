@@ -23,7 +23,7 @@ export default function Palette({ color }: PaletteProps) {
 				<FavoriteButton color={color} />
 			</div>
 			<div className={cn('mt-auto flex justify-between gap-2', textColor)}>
-				<p className="font-bold">{color.name}</p>
+				<p>{color.name}</p>
 				<p>{color.code}</p>
 			</div>
 		</div>

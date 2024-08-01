@@ -64,3 +64,20 @@ export async function copyToClipboard(text: string) {
 		return await navigator.clipboard.writeText(text)
 	}
 }
+
+export function applyColorFilters(
+	colors: Color[],
+	{ query }: { query?: string } = { query: '' },
+): Color[] {
+	let filteredColors = [...colors]
+
+	if (query) {
+		filteredColors = filteredColors.filter(
+			(color) =>
+				color.name.toLowerCase().includes(query.toLowerCase()) ||
+				color.code.toLowerCase().includes(query.toLowerCase()),
+		)
+	}
+
+	return filteredColors
+}
