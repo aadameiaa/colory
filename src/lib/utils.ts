@@ -1,7 +1,7 @@
 import { type ClassValue, clsx } from 'clsx'
 import { twMerge } from 'tailwind-merge'
 
-import { FAVORITED_VALUE } from '@/lib/constants'
+import { FAVORITED_VALUE, LAZY_COMPONENT_DELAY } from '@/lib/constants'
 import { Color, ColorSort, LAB, RGB, XYZ } from '@/lib/types'
 
 export function cn(...inputs: ClassValue[]) {
@@ -193,4 +193,8 @@ export function applyColorFilters(
 
 export function getIsFavorited(filters: string): boolean {
 	return filters.includes(FAVORITED_VALUE)
+}
+
+export async function delay(duration: number = LAZY_COMPONENT_DELAY) {
+	return new Promise((resolve) => setTimeout(resolve, duration))
 }

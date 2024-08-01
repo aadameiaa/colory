@@ -5,6 +5,8 @@ export const COLOR_SORTS = [
 	'desc-code',
 ] as const
 
+export const LAZY_COMPONENT_DELAY = 2000
+
 export const QUERY_PARAM = 'query'
 export const FILTERS_PARAM = 'filters'
 export const SORT_PARAM = 'sort'

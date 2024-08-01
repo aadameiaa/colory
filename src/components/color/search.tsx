@@ -34,7 +34,7 @@ export default function Search() {
 				placeholder="Color name or code"
 				defaultValue={query}
 				onChange={handleChange}
-				className="max-w-[200px] pl-8"
+				className="w-[200px] pl-8"
 			/>
 		</div>
 	)
