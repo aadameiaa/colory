@@ -1,6 +1,7 @@
 'use client'
 
-import { BrushIcon } from 'lucide-react'
+import { BrushIcon, LinkIcon } from 'lucide-react'
+import { useRouter } from 'next/navigation'
 
 import CopyButton from '@/components/global/copy-button'
 import { Button, ButtonProps } from '@/components/ui/button'
@@ -21,6 +22,7 @@ export default function Tools({
 	...props
 }: ToolsProps) {
 	const colorActions = useColorActions()
+	const router = useRouter()
 
 	const textColor = getOppositeContrast(hexCode)
 	const isTextDarkColor = getIsTextDarkColor(hexCode)
@@ -46,6 +48,9 @@ export default function Tools({
 				<BrushIcon className="size-4 shrink-0" />
 			</Button>
 			<CopyButton text={hexCode} {...styles} />
+			<Button {...styles} onClick={() => router.push(`/colors/${colorId}`)}>
+				<LinkIcon className="size-4 shrink-0" />
+			</Button>
 		</div>
 	)
 }
