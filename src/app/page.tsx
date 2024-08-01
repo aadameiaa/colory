@@ -14,7 +14,7 @@ export default function HomePage() {
 			}}
 			className="flex h-dvh flex-col transition-colors"
 		>
-			<Palettes className="container flex-1 p-6" />
+			<Palettes className="flex-1 p-6" />
 		</main>
 	)
 }
