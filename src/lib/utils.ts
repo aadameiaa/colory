@@ -2,7 +2,7 @@ import { type ClassValue, clsx } from 'clsx'
 import { twMerge } from 'tailwind-merge'
 
 import { FAVORITED_VALUE } from '@/lib/constants'
-import { Color, RGB } from '@/lib/types'
+import { Color, ColorSort, RGB } from '@/lib/types'
 
 export function cn(...inputs: ClassValue[]) {
 	return twMerge(clsx(inputs))
@@ -69,10 +69,11 @@ export async function copyToClipboard(text: string) {
 export function applyColorFilters(
 	colors: Color[],
 	favoriteColorIds: Color['id'][],
-	{ query, isFavorited }: { query?: string; isFavorited: boolean } = {
-		query: '',
-		isFavorited: false,
-	},
+	{
+		query,
+		isFavorited,
+		sort,
+	}: { query?: string; isFavorited?: boolean; sort?: ColorSort },
 ): Color[] {
 	let filteredColors = [...colors]
 
@@ -90,7 +91,34 @@ export function applyColorFilters(
 		)
 	}
 
+	if (sort) {
+		filteredColors = applyColorSort(filteredColors, sort)
+	}
+
 	return filteredColors
+}
+
+export function applyColorSort(colors: Color[], sort: ColorSort): Color[] {
+	switch (sort) {
+		case 'increment-name':
+			return colors.sort((a, b) =>
+				a.name.toLowerCase() <= b.name.toLowerCase() ? -1 : 1,
+			)
+		case 'decrement-name':
+			return colors.sort((a, b) =>
+				a.name.toLowerCase() > b.name.toLowerCase() ? -1 : 1,
+			)
+		case 'increment-code':
+			return colors.sort((a, b) =>
+				a.code.toLowerCase() <= b.code.toLowerCase() ? -1 : 1,
+			)
+		case 'decrement-code':
+			return colors.sort((a, b) =>
+				a.code.toLowerCase() > b.code.toLowerCase() ? -1 : 1,
+			)
+		default:
+			return colors
+	}
 }
 
 export function getIsFavorited(filters: string): boolean {

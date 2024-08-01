@@ -5,7 +5,8 @@ import { useSearchParams } from 'next/navigation'
 import Palette from '@/components/color/palette'
 import { ScrollArea } from '@/components/ui/scroll-area'
 
-import { FILTERS_PARAM, QUERY_PARAM } from '@/lib/constants'
+import { FILTERS_PARAM, QUERY_PARAM, SORT_PARAM } from '@/lib/constants'
+import { ColorSort } from '@/lib/types'
 import { applyColorFilters, getIsFavorited, gridAutoColumn } from '@/lib/utils'
 import { useColors, useFavoriteColorIds } from '@/store/color'
 
@@ -17,13 +18,15 @@ export default function Palettes(props: PalettesProps) {
 	const favoriteColorIds = useFavoriteColorIds()
 	const searchParams = useSearchParams()
 
-	const query = searchParams.get(QUERY_PARAM) || ''
-	const filters = searchParams.get(FILTERS_PARAM) || ''
+	const query = searchParams.get(QUERY_PARAM) || undefined
+	const filters = searchParams.get(FILTERS_PARAM) || undefined
+	const sort = (searchParams.get(SORT_PARAM) as ColorSort) || undefined
 
-	const isFavorited = getIsFavorited(filters)
+	const isFavorited = filters ? getIsFavorited(filters) : undefined
 	const filteredColors = applyColorFilters(colors, favoriteColorIds, {
 		query,
 		isFavorited,
+		sort,
 	})
 
 	return (

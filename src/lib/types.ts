@@ -1,3 +1,5 @@
+import { COLOR_SORTS } from './constants'
+
 export type Color = {
 	id: string
 	name: string
@@ -10,3 +12,5 @@ export type RGB = {
 	g: number
 	b: number
 }
+
+export type ColorSort = (typeof COLOR_SORTS)[number]
