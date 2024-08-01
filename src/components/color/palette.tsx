@@ -17,7 +17,7 @@ export default function Palette({ color }: PaletteProps) {
 	return (
 		<div
 			style={{ backgroundColor: color.hexCode }}
-			className="group/palette flex h-32 flex-col rounded-md shadow-md"
+			className="group/palette flex h-32 flex-col rounded-md shadow-md transition-transform duration-500 hover:scale-110"
 		>
 			<div className="flex items-center justify-between gap-4 p-2">
 				<Tools

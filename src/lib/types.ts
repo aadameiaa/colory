@@ -25,4 +25,11 @@ export type LAB = {
 	b: number
 }
 
+export type CMYK = {
+	c: number
+	m: number
+	y: number
+	k: number
+}
+
 export type ColorSort = (typeof COLOR_SORTS)[number]

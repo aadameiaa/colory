@@ -2,7 +2,7 @@ import { type ClassValue, clsx } from 'clsx'
 import { twMerge } from 'tailwind-merge'
 
 import { FAVORITED_VALUE, LAZY_COMPONENT_DELAY } from '@/lib/constants'
-import { Color, ColorSort, LAB, RGB, XYZ } from '@/lib/types'
+import { CMYK, Color, ColorSort, LAB, RGB, XYZ } from '@/lib/types'
 
 export function cn(...inputs: ClassValue[]) {
 	return twMerge(clsx(inputs))
@@ -16,7 +16,7 @@ export function gridAutoColumn(
 	return `repeat(auto-${type}, minmax(${min}, ${max}))`
 }
 
-function hexCodeToRGB(hexCode: string): RGB {
+export function hexCodeToRGB(hexCode: string): RGB {
 	const removedHash = hexCode.replace('#', '')
 	const formattedHexCode =
 		removedHash.length === 3
@@ -74,7 +74,7 @@ function normalizeRGB({ r, g, b }: RGB) {
 	return { nr: r / 255, ng: g / 255, nb: b / 255 }
 }
 
-function rgbToXYZ(rgb: RGB) {
+export function rgbToXYZ(rgb: RGB) {
 	const { nr, ng, nb } = normalizeRGB(rgb)
 
 	const x = 0.4124564 * nr + 0.3575761 * ng + 0.1804375 * nb
@@ -84,8 +84,26 @@ function rgbToXYZ(rgb: RGB) {
 	return { x, y, z }
 }
 
-function rgbToLAB(rgb: RGB) {
+export function rgbToLAB(rgb: RGB) {
 	return xyzToLAB(rgbToXYZ(rgb))
+}
+
+export function rgbToCMYK(rgb: RGB): CMYK {
+	const r = rgb.r / 255
+	const g = rgb.g / 255
+	const b = rgb.b / 255
+
+	const k = 1 - Math.max(r, g, b)
+	const c = (1 - r - k) / (1 - k)
+	const m = (1 - g - k) / (1 - k)
+	const y = (1 - b - k) / (1 - k)
+
+	return {
+		c: Math.round(c * 100),
+		m: Math.round(m * 100),
+		y: Math.round(y * 100),
+		k: Math.round(k * 100),
+	}
 }
 
 function colorDistance(rgb: RGB, comparedRgb: RGB) {
@@ -197,4 +215,20 @@ export function getIsFavorited(filters: string): boolean {
 
 export async function delay(duration: number = LAZY_COMPONENT_DELAY) {
 	return new Promise((resolve) => setTimeout(resolve, duration))
+}
+
+export function formatRGB(rgb: RGB): string {
+	return `RGB(${rgb.r}, ${rgb.g}, ${rgb.b})`
+}
+
+export function formatXYZ(xyz: XYZ): string {
+	return `XYZ(${(xyz.x * 100).toFixed(2)}, ${(xyz.y * 100).toFixed(2)}, ${(xyz.z * 100).toFixed(2)})`
+}
+
+export function formatLAB(lab: LAB): string {
+	return `LAB(${lab.l.toFixed(2)}, ${lab.a.toFixed(2)}, ${lab.b.toFixed(2)})`
+}
+
+export function formatCMYK(cmyk: CMYK): string {
+	return `CMYK(${cmyk.c / 100}, ${cmyk.m / 100}, ${cmyk.y / 100}, ${cmyk.k / 100})`
 }

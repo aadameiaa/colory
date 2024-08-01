@@ -8,6 +8,16 @@ import FavoriteButton from '@/components/color/favorite-button'
 import CopyButton from '@/components/global/copy-button'
 import { Button } from '@/components/ui/button'
 
+import {
+	formatCMYK,
+	formatLAB,
+	formatRGB,
+	formatXYZ,
+	hexCodeToRGB,
+	rgbToCMYK,
+	rgbToLAB,
+	rgbToXYZ,
+} from '@/lib/utils'
 import { useColors } from '@/store/color'
 
 export default function ColorPage({
@@ -21,6 +31,11 @@ export default function ColorPage({
 	const lastIndex = colors.length - 1
 	const index = colors.findIndex((color) => color.id === colorId)
 	const color = colors[index]
+	const rgb = hexCodeToRGB(color.hexCode)
+	const formattedRGB = formatRGB(rgb)
+	const formattedXYZ = formatXYZ(rgbToXYZ(rgb))
+	const formattedLAB = formatLAB(rgbToLAB(rgb))
+	const formattedCMYK = formatCMYK(rgbToCMYK(rgb))
 
 	const handlePrevColorClick = () => {
 		const prevColor = colors[index === 0 ? lastIndex : index - 1]
@@ -67,7 +82,7 @@ export default function ColorPage({
 					<ArrowRightIcon className="size-4 shrink-0" />
 				</Button>
 			</section>
-			<section className="mx-auto flex size-fit w-[222px] items-center gap-2">
+			<section className="flex items-center justify-center gap-2">
 				<Button
 					variant="outline"
 					size="icon"
@@ -82,9 +97,31 @@ export default function ColorPage({
 					variant="outline"
 					size="icon"
 				/>
+			</section>
+			<section className="mx-auto flex w-full max-w-lg flex-wrap items-center justify-center gap-2 px-6">
 				<CopyButton
 					text={color.hexCode}
 					label={color.hexCode}
+					variant="outline"
+				/>
+				<CopyButton
+					text={formattedRGB}
+					label={formattedRGB}
+					variant="outline"
+				/>
+				<CopyButton
+					text={formattedXYZ}
+					label={formattedXYZ}
+					variant="outline"
+				/>
+				<CopyButton
+					text={formattedLAB}
+					label={formattedLAB}
+					variant="outline"
+				/>
+				<CopyButton
+					text={formattedCMYK}
+					label={formattedCMYK}
 					variant="outline"
 				/>
 			</section>
