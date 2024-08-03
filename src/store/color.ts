@@ -1,6 +1,7 @@
 import { create } from 'zustand'
 import { createJSONStorage, persist } from 'zustand/middleware'
 
+import jotunColors from '@/data/jotun-colors.json'
 import vinilexColors from '@/data/vinilex-colors.json'
 import { Color } from '@/lib/types'
 
@@ -18,7 +19,7 @@ type ColorActions = {
 }
 
 const initialState: ColorState = {
-	colors: [...vinilexColors],
+	colors: [...vinilexColors, ...jotunColors],
 	favoriteColorIds: [],
 	backgroundColor: null,
 }

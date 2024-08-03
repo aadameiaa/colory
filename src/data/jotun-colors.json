@@ -1,0 +1,5282 @@
+[
+	{
+		"id": "01UJ18CVDE",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Fresh Pasta",
+		"code": "1775",
+		"hexCode": "#E9DAB1"
+	},
+	{
+		"id": "LIXGCEQF4O",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Morning Fog",
+		"code": "9918",
+		"hexCode": "#F0EFEA"
+	},
+	{
+		"id": "VIKB0SIJQO",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Mexico",
+		"code": "0288",
+		"hexCode": "#B99E6B"
+	},
+	{
+		"id": "C8JKOTNPUO",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Cactus",
+		"code": "0274",
+		"hexCode": "#D7C088"
+	},
+	{
+		"id": "2T0M39H5HY",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Velvet",
+		"code": "10246",
+		"hexCode": "#D6BD90"
+	},
+	{
+		"id": "SP2INKGBPA",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Vandyke Brown",
+		"code": "10249",
+		"hexCode": "#79736D"
+	},
+	{
+		"id": "9TDR3OAQ0B",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Washed Linen",
+		"code": "10679",
+		"hexCode": "#C9C3B6"
+	},
+	{
+		"id": "D1AXT7JPIN",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Soft Radiance",
+		"code": "12080",
+		"hexCode": "#D9CCAF"
+	},
+	{
+		"id": "ANSJ3FALOP",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Silky Yellow",
+		"code": "12081",
+		"hexCode": "#CCBD9D"
+	},
+	{
+		"id": "Y679X0SVMX",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Desert Pink",
+		"code": "12120",
+		"hexCode": "#BF9F86"
+	},
+	{
+		"id": "XZ213AOH7A",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Natural Green",
+		"code": "8575",
+		"hexCode": "#7A7861"
+	},
+	{
+		"id": "KK0PMHF3S2",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Bella",
+		"code": "2489",
+		"hexCode": "#D9926D"
+	},
+	{
+		"id": "AJBB83LVYX",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Light Eggplant",
+		"code": "3206",
+		"hexCode": "#9D9697"
+	},
+	{
+		"id": "GPIVOQB5G4",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Macchiato",
+		"code": "1359",
+		"hexCode": "#CEC1B1"
+	},
+	{
+		"id": "DF8Q66XUG2",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Antique Yellow",
+		"code": "1392",
+		"hexCode": "#D4B58B"
+	},
+	{
+		"id": "BB4CMRWBSY",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Heath Violet",
+		"code": "4177",
+		"hexCode": "#D0D7DE"
+	},
+	{
+		"id": "Y6TO7J2JR2",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Blue Harmony",
+		"code": "4594",
+		"hexCode": "#6B717C"
+	},
+	{
+		"id": "L11ET73SR7",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Summer Snow",
+		"code": "1928",
+		"hexCode": "#E4E2D7"
+	},
+	{
+		"id": "7YRQBYFP9W",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Icy Blue",
+		"code": "5044",
+		"hexCode": "#808D92"
+	},
+	{
+		"id": "PD6T8Y4ZV1",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Alda",
+		"code": "8331",
+		"hexCode": "#9C9D60"
+	},
+	{
+		"id": "G2OANU5182",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Arctic Grey",
+		"code": "5249",
+		"hexCode": "#919DA0"
+	},
+	{
+		"id": "G2AS641ZW1",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Industrial Grey",
+		"code": "5343",
+		"hexCode": "#8D908F"
+	},
+	{
+		"id": "4Y4HFTVFEW",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Dusty Rose",
+		"code": "20055",
+		"hexCode": "#A0847A"
+	},
+	{
+		"id": "NZREA56UXQ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Local Green",
+		"code": "8546",
+		"hexCode": "#948A6F"
+	},
+	{
+		"id": "ILZ85VJ7CO",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Orchid Green",
+		"code": "8004",
+		"hexCode": "#9C964C"
+	},
+	{
+		"id": "IS7NK6GE6C",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Amber Red",
+		"code": "20118",
+		"hexCode": "#9B6C5C"
+	},
+	{
+		"id": "MGFX9ISA8R",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Industrial Blue",
+		"code": "5455",
+		"hexCode": "#4E616C"
+	},
+	{
+		"id": "X12JOFC2DX",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Daydream",
+		"code": "20142",
+		"hexCode": "#806A62"
+	},
+	{
+		"id": "5Y1D9CM1IN",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Soft Teal",
+		"code": "6350",
+		"hexCode": "#9AA49E"
+	},
+	{
+		"id": "6PEHBPTB61",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Wisdom",
+		"code": "20145",
+		"hexCode": "#615957"
+	},
+	{
+		"id": "AC6B55XIEM",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Evening Green",
+		"code": "6352",
+		"hexCode": "#808985"
+	},
+	{
+		"id": "1I3NZ3QCHL",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Empire",
+		"code": "0520",
+		"hexCode": "#CBCBC9"
+	},
+	{
+		"id": "AO7ECB15GB",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Moss Green",
+		"code": "7354",
+		"hexCode": "#696A66"
+	},
+	{
+		"id": "8LHEBAS9VE",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Vintage Linen",
+		"code": "4165",
+		"hexCode": "#A6C4E0"
+	},
+	{
+		"id": "HIX47MRVQL",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Airy Green",
+		"code": "7626",
+		"hexCode": "#D8DBCF"
+	},
+	{
+		"id": "A2BKS13C0Z",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Olive Dip",
+		"code": "1782",
+		"hexCode": "#D49D45"
+	},
+	{
+		"id": "5LI25ZEN70",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Lounge",
+		"code": "1930",
+		"hexCode": "#AF9478"
+	},
+	{
+		"id": "2H8WJ6EHKF",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Ivy Dirt",
+		"code": "8362",
+		"hexCode": "#9B834B"
+	},
+	{
+		"id": "QGHG4VGUBR",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Carbon Black",
+		"code": "9920",
+		"hexCode": "#545351"
+	},
+	{
+		"id": "JKLRM4NEJV",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Fahm",
+		"code": "9925",
+		"hexCode": "#696967"
+	},
+	{
+		"id": "W8HDGEQN3P",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Rose Petals",
+		"code": "3180",
+		"hexCode": "#F2E5E0"
+	},
+	{
+		"id": "EUYW5ZLVE8",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Feather",
+		"code": "2524",
+		"hexCode": "#DFD7CD"
+	},
+	{
+		"id": "RDC1LBMQ8N",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Callie Purple",
+		"code": "4149",
+		"hexCode": "#B8AFC4"
+	},
+	{
+		"id": "YCN7B3JDTX",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Violet",
+		"code": "4392",
+		"hexCode": "#957AA1"
+	},
+	{
+		"id": "GCDR9B9QYO",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Violet Dreams",
+		"code": "4488",
+		"hexCode": "#C9B9D5"
+	},
+	{
+		"id": "A76UK0OZGS",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Freedom",
+		"code": "5167",
+		"hexCode": "#DADFDE"
+	},
+	{
+		"id": "9HW9Q01D2J",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Chini",
+		"code": "5180",
+		"hexCode": "#526064"
+	},
+	{
+		"id": "HRU0DTTC0N",
+		"brand": "Jotun",
+		"product": "",
+		"name": "White Heather",
+		"code": "8303",
+		"hexCode": "#D7D3C1"
+	},
+	{
+		"id": "CSL1HHXSR5",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Fudge",
+		"code": "10336",
+		"hexCode": "#6D5D50"
+	},
+	{
+		"id": "5ZGA08303S",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Lemon Zest",
+		"code": "7408",
+		"hexCode": "#D8E6C1"
+	},
+	{
+		"id": "GUL7JC2IQZ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Front",
+		"code": "1899",
+		"hexCode": "#716F69"
+	},
+	{
+		"id": "RQE27DWD4D",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Marigold White",
+		"code": "8012",
+		"hexCode": "#EDE0A6"
+	},
+	{
+		"id": "HVXXLU22JJ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Winery",
+		"code": "2846",
+		"hexCode": "#755352"
+	},
+	{
+		"id": "D3RXE5SCH4",
+		"brand": "Jotun",
+		"product": "",
+		"name": "White Comfort",
+		"code": "8395",
+		"hexCode": "#EBE9DE"
+	},
+	{
+		"id": "M2WKJDMA6A",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Sahl",
+		"code": "8277",
+		"hexCode": "#F4D550"
+	},
+	{
+		"id": "R4ESMWJQHJ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Teal Beige",
+		"code": "1966",
+		"hexCode": "#F0D5AC"
+	},
+	{
+		"id": "MDQKLWER6T",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Spring Champagne",
+		"code": "1998",
+		"hexCode": "#DFCCAF"
+	},
+	{
+		"id": "8TA4Z8WP5E",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Tuscany",
+		"code": "2225",
+		"hexCode": "#D2A993"
+	},
+	{
+		"id": "VXB3VDZCWK",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Oakwood",
+		"code": "2364",
+		"hexCode": "#957F72"
+	},
+	{
+		"id": "UWB4XK4PB9",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Rich Kashmir",
+		"code": "2711",
+		"hexCode": "#6A605C"
+	},
+	{
+		"id": "9SIDGDXCTY",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Mistral",
+		"code": "4011",
+		"hexCode": "#D7DDDF"
+	},
+	{
+		"id": "8Y20FMMH9Y",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Night Shadow",
+		"code": "4686",
+		"hexCode": "#3B4760"
+	},
+	{
+		"id": "F0MVHGK6FY",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Blue View",
+		"code": "4691",
+		"hexCode": "#939BAF"
+	},
+	{
+		"id": "10AIYAVJN3",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Cypress",
+		"code": "7040",
+		"hexCode": "#929D82"
+	},
+	{
+		"id": "28DC4UY2FM",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Bayleaf",
+		"code": "7544",
+		"hexCode": "#7A877A"
+	},
+	{
+		"id": "PQYQ9JX4E9",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Carbon Black",
+		"code": "9920",
+		"hexCode": "#545351"
+	},
+	{
+		"id": "3PWRHHH8FU",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Ivory White",
+		"code": "0566",
+		"hexCode": "#F4E9D6"
+	},
+	{
+		"id": "ZMP3A5TYSW",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Dazzle Light",
+		"code": "0567",
+		"hexCode": "#F2EAD6"
+	},
+	{
+		"id": "W7RV1DH9IP",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Sensual Touch",
+		"code": "0767",
+		"hexCode": "#B8BCB7"
+	},
+	{
+		"id": "TV9SG01XN1",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Beach Honey",
+		"code": "1122",
+		"hexCode": "#E8D5C3"
+	},
+	{
+		"id": "O5WLKQZMCK",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Tribal",
+		"code": "1187",
+		"hexCode": "#D39246"
+	},
+	{
+		"id": "DZDZLUXMDS",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Unicorn",
+		"code": "1188",
+		"hexCode": "#FAE3C4"
+	},
+	{
+		"id": "4XKYE9TJE3",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Coco Berry",
+		"code": "2133",
+		"hexCode": "#D39689"
+	},
+	{
+		"id": "DX31AVRZP7",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Knight",
+		"code": "3009",
+		"hexCode": "#BFBCBB"
+	},
+	{
+		"id": "FUH6QY85OF",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Alice Blue",
+		"code": "4241",
+		"hexCode": "#6A89A0"
+	},
+	{
+		"id": "OLMQWX0DMJ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Tree",
+		"code": "7528",
+		"hexCode": "#526A5C"
+	},
+	{
+		"id": "AILZ74Z9G4",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Persian Khaki",
+		"code": "1623",
+		"hexCode": "#AEA191"
+	},
+	{
+		"id": "UIP4S4Z66N",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Nutmeg",
+		"code": "1929",
+		"hexCode": "#A19485"
+	},
+	{
+		"id": "O3W6AO3UDR",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Antique White",
+		"code": "1016",
+		"hexCode": "#CDC5B5"
+	},
+	{
+		"id": "829S1AFNHL",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Golden Lily",
+		"code": "10406",
+		"hexCode": "#F2BF55"
+	},
+	{
+		"id": "XH73WL1SYI",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Nobile",
+		"code": "1177",
+		"hexCode": "#E8C099"
+	},
+	{
+		"id": "J469HUKMBB",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Geranium",
+		"code": "4168",
+		"hexCode": "#7185B1"
+	},
+	{
+		"id": "BAPR675MNA",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Ascott",
+		"code": "0553",
+		"hexCode": "#C8C3B8"
+	},
+	{
+		"id": "UXSBZKVEAU",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Adventure",
+		"code": "11175",
+		"hexCode": "#A38269"
+	},
+	{
+		"id": "T9YPW8AL1D",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Peachy",
+		"code": "12074",
+		"hexCode": "#C1A082"
+	},
+	{
+		"id": "QNDVWDGTCM",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Wild Earl",
+		"code": "1876",
+		"hexCode": "#D4CBB9"
+	},
+	{
+		"id": "RFA01QY0IH",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Pistachio",
+		"code": "7386",
+		"hexCode": "#C8CDAF"
+	},
+	{
+		"id": "VRQ9B25BPI",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Tudor",
+		"code": "0552",
+		"hexCode": "#E1DCD1"
+	},
+	{
+		"id": "CKG0BE0XY5",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Summer Sun",
+		"code": "10235",
+		"hexCode": "#E9CE8D"
+	},
+	{
+		"id": "8OJNE0ZN8Z",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Ginseng",
+		"code": "10245",
+		"hexCode": "#DDCEB0"
+	},
+	{
+		"id": "G0NSHB4Q4A",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Iron Grey",
+		"code": "1032",
+		"hexCode": "#AAA79F"
+	},
+	{
+		"id": "5JCOK43VDB",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Masala",
+		"code": "10428",
+		"hexCode": "#C79F6E"
+	},
+	{
+		"id": "JDLLF8LX93",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Discrete",
+		"code": "10429",
+		"hexCode": "#8C867E"
+	},
+	{
+		"id": "DJ611VFKPY",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Space",
+		"code": "10678",
+		"hexCode": "#D6CFBF"
+	},
+	{
+		"id": "4V2M101RC3",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Hipster Brown",
+		"code": "10965",
+		"hexCode": "#857C6E"
+	},
+	{
+		"id": "B9JQ5VBY7K",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Refined Yellow",
+		"code": "12082",
+		"hexCode": "#C2B08D"
+	},
+	{
+		"id": "A2RDKLOQCS",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Dusky Peach",
+		"code": "12084",
+		"hexCode": "#C0A78D"
+	},
+	{
+		"id": "CV5WAP9I62",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Impression",
+		"code": "12125",
+		"hexCode": "#BBA78E"
+	},
+	{
+		"id": "S7TLFKM36M",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Grand Shadow",
+		"code": "1288",
+		"hexCode": "#B9AF9B"
+	},
+	{
+		"id": "YZCJXZPBUI",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Magic Powder",
+		"code": "3115",
+		"hexCode": "#DCB0BB"
+	},
+	{
+		"id": "87906XE80X",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Dream",
+		"code": "3154",
+		"hexCode": "#ECEAEC"
+	},
+	{
+		"id": "7XY0YYHX5D",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Olive Brown",
+		"code": "1362",
+		"hexCode": "#7F644C"
+	},
+	{
+		"id": "QDQXAU7KMC",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Dusty Purple",
+		"code": "3343",
+		"hexCode": "#7D6668"
+	},
+	{
+		"id": "89ZT3F18R7",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Slate Lavender",
+		"code": "3377",
+		"hexCode": "#8E8687"
+	},
+	{
+		"id": "FO0NIE1HGE",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Pilaster Blue",
+		"code": "4017",
+		"hexCode": "#9CAAB2"
+	},
+	{
+		"id": "M71MWSDUUJ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Bare",
+		"code": "1391",
+		"hexCode": "#D4D3C9"
+	},
+	{
+		"id": "31W2QKV9X8",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Dark Indigo",
+		"code": "4623",
+		"hexCode": "#5D5A63"
+	},
+	{
+		"id": "H69YI6MTLV",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Rain Sky",
+		"code": "4627",
+		"hexCode": "#D3DBE0"
+	},
+	{
+		"id": "74YF19DPQ4",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Sophisticated Blue",
+		"code": "4744",
+		"hexCode": "#454A4D"
+	},
+	{
+		"id": "CMSXT60I3H",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Nutmeg",
+		"code": "1929",
+		"hexCode": "#A19485"
+	},
+	{
+		"id": "0LOB9K8QA9",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Hope",
+		"code": "8565",
+		"hexCode": "#AFAD88"
+	},
+	{
+		"id": "QHSOOHKZU6",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Lake View",
+		"code": "5225",
+		"hexCode": "#BACFCF"
+	},
+	{
+		"id": "TKT8HMWNO9",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Svalbard Sea",
+		"code": "5262",
+		"hexCode": "#D0DDDC"
+	},
+	{
+		"id": "YL10MXWO3H",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Blushing Peach",
+		"code": "20047",
+		"hexCode": "#C3A590"
+	},
+	{
+		"id": "5FVI5FP4TA",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Imagine",
+		"code": "6383",
+		"hexCode": "#ADC0B7"
+	},
+	{
+		"id": "NBQUNVZN8L",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Grounded Red",
+		"code": "20144",
+		"hexCode": "#92695A"
+	},
+	{
+		"id": "XC3DH0H16M",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Retro Blue",
+		"code": "5159",
+		"hexCode": "#6F8D9A"
+	},
+	{
+		"id": "09PLIE2COZ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Hint Of Cream",
+		"code": "0384",
+		"hexCode": "#F5EAD5"
+	},
+	{
+		"id": "E5CP27RLDK",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Ursula",
+		"code": "3331",
+		"hexCode": "#936D80"
+	},
+	{
+		"id": "ZTBQPVDS8U",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Orangutan",
+		"code": "1882",
+		"hexCode": "#FCD9BA"
+	},
+	{
+		"id": "HDC2FL3JKZ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Tomato",
+		"code": "3203",
+		"hexCode": "#BD707B"
+	},
+	{
+		"id": "IY6NG9EH5X",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Rose Basket",
+		"code": "2619",
+		"hexCode": "#E4AEA9"
+	},
+	{
+		"id": "XET3BVQVO3",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Salsa",
+		"code": "2452",
+		"hexCode": "#B54E45"
+	},
+	{
+		"id": "DS8WZNG2IZ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Oriental Red",
+		"code": "2185",
+		"hexCode": "#C34644"
+	},
+	{
+		"id": "LC93CWW1ZP",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Wispy Grey",
+		"code": "5028",
+		"hexCode": "#CDD3D2"
+	},
+	{
+		"id": "OAFZXSMUNJ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "White Pepper",
+		"code": "8282",
+		"hexCode": "#E4E2D6"
+	},
+	{
+		"id": "GVEYOSOXSE",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Beryl Charm",
+		"code": "6191",
+		"hexCode": "#A5E3DC"
+	},
+	{
+		"id": "P74YHE09WQ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Laurel",
+		"code": "8302",
+		"hexCode": "#B0AE96"
+	},
+	{
+		"id": "770MM3DTA6",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Heather Beige",
+		"code": "1878",
+		"hexCode": "#A29385"
+	},
+	{
+		"id": "0ZRE6C3PU8",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Enchanted Garden",
+		"code": "8241",
+		"hexCode": "#BFC357"
+	},
+	{
+		"id": "PF634YS2OK",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Whispering Red",
+		"code": "2859",
+		"hexCode": "#985F56"
+	},
+	{
+		"id": "1E9HY5WXDE",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Lemongrass",
+		"code": "8247",
+		"hexCode": "#E2BD33"
+	},
+	{
+		"id": "GXBL19O8SV",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Summer Meadow",
+		"code": "8249",
+		"hexCode": "#CEB769"
+	},
+	{
+		"id": "QY2DVI5DEZ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Thyme",
+		"code": "8304",
+		"hexCode": "#7C796E"
+	},
+	{
+		"id": "SDS5CBEWXQ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Regal Yellow",
+		"code": "1501",
+		"hexCode": "#FFB247"
+	},
+	{
+		"id": "NG0CM9ELTN",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Chateau",
+		"code": "1246",
+		"hexCode": "#D9B389"
+	},
+	{
+		"id": "Q99VJ89ER6",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Palladium",
+		"code": "1293",
+		"hexCode": "#C6C6C1"
+	},
+	{
+		"id": "A705PTCH07",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Tea Leaves",
+		"code": "1938",
+		"hexCode": "#BBAB92"
+	},
+	{
+		"id": "YIGKNATE83",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Rich Clay",
+		"code": "1989",
+		"hexCode": "#DBD0B2"
+	},
+	{
+		"id": "UI0FP0E9Q7",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Deep Burgundy",
+		"code": "3309",
+		"hexCode": "#5E4A4B"
+	},
+	{
+		"id": "9NRZX0AJ3V",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Coastal Wave",
+		"code": "5041",
+		"hexCode": "#548895"
+	},
+	{
+		"id": "RVQ82ANCOC",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Cobalt",
+		"code": "6198",
+		"hexCode": "#4F6B6A"
+	},
+	{
+		"id": "ZOQ03TU0H3",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Olive",
+		"code": "8284",
+		"hexCode": "#B8A87F"
+	},
+	{
+		"id": "WIZ9VHU5OO",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Raw Canvas",
+		"code": "10961",
+		"hexCode": "#BEAF97"
+	},
+	{
+		"id": "ZG1VCAX9LD",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Sinai",
+		"code": "1111",
+		"hexCode": "#C69E5C"
+	},
+	{
+		"id": "GM47EVD40S",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Spray Tan",
+		"code": "1193",
+		"hexCode": "#D4874A"
+	},
+	{
+		"id": "X9P98HYHNZ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Fire Brick",
+		"code": "2131",
+		"hexCode": "#C8785D"
+	},
+	{
+		"id": "N4XPI64L9K",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Tender Green",
+		"code": "6351",
+		"hexCode": "#B7C1BD"
+	},
+	{
+		"id": "3KMYM3NBK5",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Grove",
+		"code": "8050",
+		"hexCode": "#85775B"
+	},
+	{
+		"id": "QCB88E55HK",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Sunny Spot",
+		"code": "8054",
+		"hexCode": "#EFCB6B"
+	},
+	{
+		"id": "VEVAE0AXX3",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Bare",
+		"code": "1391",
+		"hexCode": "#D4D3C9"
+	},
+	{
+		"id": "AAXEPB0KZQ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Oxford River",
+		"code": "9915",
+		"hexCode": "#D5D4CF"
+	},
+	{
+		"id": "VG3GHQE818",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Navajo White",
+		"code": "1075",
+		"hexCode": "#EDE3CA"
+	},
+	{
+		"id": "GSH0VJ3R7B",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Chocolate",
+		"code": "2392",
+		"hexCode": "#6A5044"
+	},
+	{
+		"id": "5KXSVY57EP",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Tawny Earth",
+		"code": "20235",
+		"hexCode": "#9F6251"
+	},
+	{
+		"id": "6OOP4K2A8I",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Spring Dew",
+		"code": "8159",
+		"hexCode": "#EDEFE5"
+	},
+	{
+		"id": "RFJ4IR8YN0",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Serene Mint",
+		"code": "8084",
+		"hexCode": "#C9C9B6"
+	},
+	{
+		"id": "6ZQSL6WXZ2",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Sage",
+		"code": "8294",
+		"hexCode": "#9B9C8F"
+	},
+	{
+		"id": "PWYXD0J27T",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Urban Light",
+		"code": "4507",
+		"hexCode": "#DDE5EC"
+	},
+	{
+		"id": "M8KRO6HZ8Y",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Muted Coral",
+		"code": "20217",
+		"hexCode": "#BB7D69"
+	},
+	{
+		"id": "GOQ7PKF4V5",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Soft Brown",
+		"code": "12291",
+		"hexCode": "#89755F"
+	},
+	{
+		"id": "8O1RYDOI3S",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Free Spirit",
+		"code": "5489",
+		"hexCode": "#6B7E7E"
+	},
+	{
+		"id": "DNE0QU5EV7",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Light Antique",
+		"code": "0471",
+		"hexCode": "#EAE5DA"
+	},
+	{
+		"id": "0MHQOJ042A",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Egg White",
+		"code": "1001",
+		"hexCode": "#EFEDE3"
+	},
+	{
+		"id": "LZAFLZEEA2",
+		"brand": "Jotun",
+		"product": "",
+		"name": "White Linen",
+		"code": "10182",
+		"hexCode": "#CFCAC1"
+	},
+	{
+		"id": "C16A09MYLG",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Olive Garden ",
+		"code": "10248",
+		"hexCode": "#958468"
+	},
+	{
+		"id": "AW5FNUJ1U2",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Belgian Brown",
+		"code": "10385",
+		"hexCode": "#7F7160"
+	},
+	{
+		"id": "RAFX0QAGK9",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Cashmere",
+		"code": "10683",
+		"hexCode": "#B19C80"
+	},
+	{
+		"id": "R6Q8AQCGEN",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Velvet Grey",
+		"code": "10835",
+		"hexCode": "#766F66"
+	},
+	{
+		"id": "4AUZA95T5J",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Raw Canvas",
+		"code": "10961",
+		"hexCode": "#BEAF97"
+	},
+	{
+		"id": "8EW2WXUS9N",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Gleam",
+		"code": "12079",
+		"hexCode": "#E4DBC4"
+	},
+	{
+		"id": "4E8U8V7SC1",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Rustic Pink",
+		"code": "12086",
+		"hexCode": "#CAB7A7"
+	},
+	{
+		"id": "HLGAAI86AR",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Collected Blue",
+		"code": "5530",
+		"hexCode": "#99A6A5"
+	},
+	{
+		"id": "LD5744PSNJ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Silhouette",
+		"code": "12126",
+		"hexCode": "#BFB49C"
+	},
+	{
+		"id": "OP786IQBQC",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Earthy Brown",
+		"code": "12127",
+		"hexCode": "#6F5846"
+	},
+	{
+		"id": "SSB9B023VC",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Rustic Brown",
+		"code": "11012",
+		"hexCode": "#887E6E"
+	},
+	{
+		"id": "LO3RG4FDOH",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Dawn",
+		"code": "1269",
+		"hexCode": "#C0BFB7"
+	},
+	{
+		"id": "89UOES29T1",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Mild",
+		"code": "1275",
+		"hexCode": "#E6E0D0"
+	},
+	{
+		"id": "SM7FR2B5IO",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Mediterranean Olive",
+		"code": "1109",
+		"hexCode": "#CDB385"
+	},
+	{
+		"id": "4MN3DB59ZD",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Dusty Red",
+		"code": "2995",
+		"hexCode": "#806159"
+	},
+	{
+		"id": "N96CQ3T0KW",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Cheerful Peach",
+		"code": "1520",
+		"hexCode": "#F0CFA5"
+	},
+	{
+		"id": "O4MAPDW39I",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Romantic",
+		"code": "1304",
+		"hexCode": "#EFE2C4"
+	},
+	{
+		"id": "UFQLK7VV86",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Dark Pine",
+		"code": "1337",
+		"hexCode": "#E8BE7A"
+	},
+	{
+		"id": "J4NG2KZ71Y",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Tender Grey",
+		"code": "1352",
+		"hexCode": "#9B948A"
+	},
+	{
+		"id": "X1F867DNPG",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Sun",
+		"code": "1369",
+		"hexCode": "#EBD2A3"
+	},
+	{
+		"id": "NXB1QSBC6O",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Gustavian Blue",
+		"code": "4109",
+		"hexCode": "#9DA9B2"
+	},
+	{
+		"id": "1PSFIM8P8Y",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Clear",
+		"code": "1442",
+		"hexCode": "#F4EEDF"
+	},
+	{
+		"id": "5K0UW4KFEU",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Soul",
+		"code": "1625",
+		"hexCode": "#ECE8D7"
+	},
+	{
+		"id": "2FQICP2V7L",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Paige",
+		"code": "4520",
+		"hexCode": "#E5E9E9"
+	},
+	{
+		"id": "T8GW1I4GLL",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Nordic Seas",
+		"code": "4625",
+		"hexCode": "#4D6475"
+	},
+	{
+		"id": "DTI2N5AHDV",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Tea Leaves",
+		"code": "1938",
+		"hexCode": "#BBAB92"
+	},
+	{
+		"id": "T362ZZQGOL",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Objective",
+		"code": "1973",
+		"hexCode": "#BFBCB2"
+	},
+	{
+		"id": "6GZTH9AAZ4",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Organic Green",
+		"code": "8494",
+		"hexCode": "#646556"
+	},
+	{
+		"id": "BN4QIRUV1D",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Cadet Steel ",
+		"code": "5351",
+		"hexCode": "#85A1AE"
+	},
+	{
+		"id": "JSE5ZK6KF8",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Wish",
+		"code": "6384",
+		"hexCode": "#89A5A2"
+	},
+	{
+		"id": "ABZAIN7RFD",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Transparent Pink",
+		"code": "20119",
+		"hexCode": "#DACEC0"
+	},
+	{
+		"id": "GN63ZUZHUC",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Balance",
+		"code": "6325",
+		"hexCode": "#717E79"
+	},
+	{
+		"id": "XJU467260X",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Samik Ivory",
+		"code": "1065",
+		"hexCode": "#E6DBCA"
+	},
+	{
+		"id": "BIHX8BJ60I",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Lotus Root",
+		"code": "1108",
+		"hexCode": "#E4DDCA"
+	},
+	{
+		"id": "5L1GMFQJEI",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Scent ",
+		"code": "2168",
+		"hexCode": "#D8CAC2"
+	},
+	{
+		"id": "T8GJ1AAF0C",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Earthy",
+		"code": "12198",
+		"hexCode": "#9F7D6B"
+	},
+	{
+		"id": "3ORDFCCBEG",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Earthy Sand",
+		"code": "12199",
+		"hexCode": "#B7A694"
+	},
+	{
+		"id": "28LRJE76DE",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Desert Dunes",
+		"code": "12200",
+		"hexCode": "#DBC9B6"
+	},
+	{
+		"id": "BZPRTM1DX5",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Soft Mint",
+		"code": "7555",
+		"hexCode": "#C9D0C5"
+	},
+	{
+		"id": "6B2K5LLKDW",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Rubin",
+		"code": "3324",
+		"hexCode": "#895355"
+	},
+	{
+		"id": "BK7GL9PZEK",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Memento",
+		"code": "1991",
+		"hexCode": "#BFA47F"
+	},
+	{
+		"id": "W264RF82C1",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Solid",
+		"code": "2363",
+		"hexCode": "#81746D"
+	},
+	{
+		"id": "EBL30R7XO3",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Bliss",
+		"code": "2374",
+		"hexCode": "#F8DFD3"
+	},
+	{
+		"id": "LDZAGRNCL1",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Spring Foliage ",
+		"code": "8088",
+		"hexCode": "#BEAF7C"
+	},
+	{
+		"id": "48N56CAFIZ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Silver Tone",
+		"code": "8094",
+		"hexCode": "#9D9C95"
+	},
+	{
+		"id": "64KXPLMXVF",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Zircon",
+		"code": "3014",
+		"hexCode": "#C9C0C0"
+	},
+	{
+		"id": "UDOD57CYKQ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Spring Dew",
+		"code": "8159",
+		"hexCode": "#EDEFE5"
+	},
+	{
+		"id": "F328IJ886U",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Movement",
+		"code": "3325",
+		"hexCode": "#B2A3A6"
+	},
+	{
+		"id": "WE074D21OL",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Burdan",
+		"code": "2495",
+		"hexCode": "#EB895C"
+	},
+	{
+		"id": "IBZ7OO89HL",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Ski Slope",
+		"code": "4397",
+		"hexCode": "#CEE0EA"
+	},
+	{
+		"id": "BEFJWTTXZK",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Tiramisu",
+		"code": "2201",
+		"hexCode": "#A3978D"
+	},
+	{
+		"id": "SDHKMCPEAW",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Light Granite",
+		"code": "2040",
+		"hexCode": "#D3B9A5"
+	},
+	{
+		"id": "SUIV74IMFD",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Pacific Dye",
+		"code": "5039",
+		"hexCode": "#C9DADB"
+	},
+	{
+		"id": "5RLC5LWLTZ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Pale Linden",
+		"code": "8281",
+		"hexCode": "#C6C6B6"
+	},
+	{
+		"id": "TSSABYS3YS",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Antique Brass",
+		"code": "2011",
+		"hexCode": "#BD9683"
+	},
+	{
+		"id": "IUVJSASQAT",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Mint Julep",
+		"code": "7010",
+		"hexCode": "#D9E0D3"
+	},
+	{
+		"id": "FRIFAS9ILY",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Celery Stick",
+		"code": "8240",
+		"hexCode": "#D7DC8D"
+	},
+	{
+		"id": "1L264O0G0C",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Sienna Orange",
+		"code": "1779",
+		"hexCode": "#FFC45A"
+	},
+	{
+		"id": "BPQDUNJ86W",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Metamorph",
+		"code": "8242",
+		"hexCode": "#B5B73D"
+	},
+	{
+		"id": "V5HKHN5ABQ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Guacamole Mix",
+		"code": "8248",
+		"hexCode": "#CEC094"
+	},
+	{
+		"id": "GWC7HDQE7O",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Pale Green",
+		"code": "8478",
+		"hexCode": "#BABAA5"
+	},
+	{
+		"id": "Z210AG0XIK",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Sunrise Gleam",
+		"code": "1216",
+		"hexCode": "#DFAC78"
+	},
+	{
+		"id": "SXR6R176KN",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Muesli",
+		"code": "1421",
+		"hexCode": "#8C7360"
+	},
+	{
+		"id": "BN1ZE3OWLR",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Rosetta Stone",
+		"code": "2573",
+		"hexCode": "#CBC5BD"
+	},
+	{
+		"id": "1UJFJIYL9N",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Steady Brown",
+		"code": "2803",
+		"hexCode": "#7B453F"
+	},
+	{
+		"id": "O3J3RMBRKA",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Shadow Purple",
+		"code": "3047",
+		"hexCode": "#94888F"
+	},
+	{
+		"id": "QGVT6KLP2V",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Snow-white",
+		"code": "5001",
+		"hexCode": "#E8EEEB"
+	},
+	{
+		"id": "02HKDACMTZ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "River Bank",
+		"code": "5310",
+		"hexCode": "#758589"
+	},
+	{
+		"id": "J7UHCH540W",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Washed Green",
+		"code": "7379",
+		"hexCode": "#A0AD9E"
+	},
+	{
+		"id": "DK6F7F07QV",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Fudge",
+		"code": "10336",
+		"hexCode": "#6D5D50"
+	},
+	{
+		"id": "BPQWSZIVVE",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Desert Rose",
+		"code": "1046",
+		"hexCode": "#E6C1A0"
+	},
+	{
+		"id": "U2KLSJ7WPV",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Miami Coral",
+		"code": "1197",
+		"hexCode": "#E49E6B"
+	},
+	{
+		"id": "MV6LZD4NJO",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Flax",
+		"code": "2132",
+		"hexCode": "#AA5A44"
+	},
+	{
+		"id": "2FCGEXZRNN",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Yellow Stone",
+		"code": "2206",
+		"hexCode": "#F6BE79"
+	},
+	{
+		"id": "7ST82MPJII",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Rouge",
+		"code": "2401",
+		"hexCode": "#9D5F55"
+	},
+	{
+		"id": "NXXRW1EGHO",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Ice Lilac",
+		"code": "4684",
+		"hexCode": "#A2A2AE"
+	},
+	{
+		"id": "OLUEPYG832",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Green Spring",
+		"code": "8067",
+		"hexCode": "#D2CC7A"
+	},
+	{
+		"id": "1BJ3QYJY7V",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Smooth Ivory",
+		"code": "1038",
+		"hexCode": "#E9D6B8"
+	},
+	{
+		"id": "9W8OXMCY5F",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Old Lace",
+		"code": "1574",
+		"hexCode": "#EDE7D6"
+	},
+	{
+		"id": "6SJ5ZXITSV",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Skylight",
+		"code": "1624",
+		"hexCode": "#F2F1E8"
+	},
+	{
+		"id": "GLA5L6K8PE",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Objective",
+		"code": "1973",
+		"hexCode": "#BFBCB2"
+	},
+	{
+		"id": "Q7PSJOWMN2",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Lena",
+		"code": "8063",
+		"hexCode": "#B5A788"
+	},
+	{
+		"id": "QC1849CHT0",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Sahara Sand",
+		"code": "1132",
+		"hexCode": "#C5A88A"
+	},
+	{
+		"id": "GH6KG6U10Y",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Beaver",
+		"code": "1138",
+		"hexCode": "#79695D"
+	},
+	{
+		"id": "Y8BE9ZDGF5",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Satin Beige",
+		"code": "8011",
+		"hexCode": "#F1EFDB"
+	},
+	{
+		"id": "26KKHCY9IU",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Dark Magnolia",
+		"code": "0254",
+		"hexCode": "#ECE5D2"
+	},
+	{
+		"id": "4TKN2OM8ZC",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Early Rain",
+		"code": "0486",
+		"hexCode": "#EAE7DB"
+	},
+	{
+		"id": "1DLEGBQYVK",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Dijon Yellow",
+		"code": "10001",
+		"hexCode": "#A98259"
+	},
+	{
+		"id": "RHHUBWZA3A",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Peach",
+		"code": "1017",
+		"hexCode": "#EDCDA1"
+	},
+	{
+		"id": "KA4T70KGXO",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Sandy",
+		"code": "10962",
+		"hexCode": "#A29179"
+	},
+	{
+		"id": "P1YMZOVUVI",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Smoked Oak",
+		"code": "10964",
+		"hexCode": "#6C6358"
+	},
+	{
+		"id": "D2FMT12LIL",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Petals",
+		"code": "1156",
+		"hexCode": "#EEC88C"
+	},
+	{
+		"id": "7XMN3O77BZ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Contemporary White",
+		"code": "12123",
+		"hexCode": "#E1DACA"
+	},
+	{
+		"id": "2SOA2759TM",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Natural Clay",
+		"code": "12124",
+		"hexCode": "#B07C5A"
+	},
+	{
+		"id": "VFNKTMWWZD",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Statement Red",
+		"code": "20207",
+		"hexCode": "#A6544A"
+	},
+	{
+		"id": "JK4SV7L5UQ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Poetry Red",
+		"code": "20208",
+		"hexCode": "#9B6156"
+	},
+	{
+		"id": "HX1GPYXN72",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Cool Ash",
+		"code": "3037",
+		"hexCode": "#C6C3C5"
+	},
+	{
+		"id": "C45E2UKDJ9",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Shadow Black",
+		"code": "4143",
+		"hexCode": "#575B67"
+	},
+	{
+		"id": "8VKRSDTMC3",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Elegant",
+		"code": "1434",
+		"hexCode": "#605D58"
+	},
+	{
+		"id": "INCHSCOF76",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Evening Sky",
+		"code": "1462",
+		"hexCode": "#84817A"
+	},
+	{
+		"id": "7KWUREIHRV",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Matt Silver",
+		"code": "4629",
+		"hexCode": "#82878B"
+	},
+	{
+		"id": "A42NS0AA9K",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Dew Blue",
+		"code": "4710",
+		"hexCode": "#909799"
+	},
+	{
+		"id": "IN418RJFN8",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Mermaid Green",
+		"code": "5168",
+		"hexCode": "#D3E9E9"
+	},
+	{
+		"id": "M1MXEFF1AK",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Green Root",
+		"code": "8334",
+		"hexCode": "#848551"
+	},
+	{
+		"id": "FUSRT2QU6G",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Savanna Sunset",
+		"code": "20046",
+		"hexCode": "#AF8A76"
+	},
+	{
+		"id": "PQJ3JG03QU",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Dark Teal",
+		"code": "5454",
+		"hexCode": "#506364"
+	},
+	{
+		"id": "7PPBFI94QS",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Serene Blue",
+		"code": "5490",
+		"hexCode": "#798484"
+	},
+	{
+		"id": "WKVBVZV2DD",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Organic Red",
+		"code": "20120",
+		"hexCode": "#987A6A"
+	},
+	{
+		"id": "KD7VEPF40W",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Sea Emerald",
+		"code": "6084",
+		"hexCode": "#739592"
+	},
+	{
+		"id": "XD713CGKN0",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Tender Green",
+		"code": "6351",
+		"hexCode": "#B7C1BD"
+	},
+	{
+		"id": "PGFE5FR89Z",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Zest",
+		"code": "1626",
+		"hexCode": "#FBEABE"
+	},
+	{
+		"id": "W5DXCBD3UK",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Royale Berry",
+		"code": "3328",
+		"hexCode": "#8A5871"
+	},
+	{
+		"id": "64TZHPXMUI",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Winter Mist",
+		"code": "1926",
+		"hexCode": "#C8C6BC"
+	},
+	{
+		"id": "2OERIDY1RN",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Yellow Stone",
+		"code": "2206",
+		"hexCode": "#F6BE79"
+	},
+	{
+		"id": "TSKOU20504",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Seashell",
+		"code": "2499",
+		"hexCode": "#CEC5B8"
+	},
+	{
+		"id": "BAFRYWCBNN",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Monroe",
+		"code": "2625",
+		"hexCode": "#AC4546"
+	},
+	{
+		"id": "S2P5ZX2ESL",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Mountain Sunset",
+		"code": "2561",
+		"hexCode": "#E27744"
+	},
+	{
+		"id": "510JHG1TP1",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Artist Clay",
+		"code": "2588",
+		"hexCode": "#CBC0B9"
+	},
+	{
+		"id": "JACFJGEJ5N",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Butterfly",
+		"code": "2602",
+		"hexCode": "#F3A296"
+	},
+	{
+		"id": "P6K6NRXFBO",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Arctic Blue",
+		"code": "4445",
+		"hexCode": "#8FC8E8"
+	},
+	{
+		"id": "K9PQRV15XA",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Green Harmony",
+		"code": "8252",
+		"hexCode": "#9E9B86"
+	},
+	{
+		"id": "Y8V2E7YEM7",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Mystery Blue",
+		"code": "5304",
+		"hexCode": "#3A535B"
+	},
+	{
+		"id": "UV8KCRS2UP",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Stone",
+		"code": "1927",
+		"hexCode": "#D1CEC6"
+	},
+	{
+		"id": "6GC1UEHNL8",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Yellow Shan",
+		"code": "10038",
+		"hexCode": "#EFBB31"
+	},
+	{
+		"id": "82K5V3EX43",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Soft Savanna",
+		"code": "10430",
+		"hexCode": "#BCAA8F"
+	},
+	{
+		"id": "PAOIVU4F0E",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Chalk Ochre",
+		"code": "1909",
+		"hexCode": "#C49F71"
+	},
+	{
+		"id": "X2GUKJ8FYA",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Embrace ",
+		"code": "12179",
+		"hexCode": "#B58D6F"
+	},
+	{
+		"id": "4XZ8IYYK1J",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Gentle Whisper",
+		"code": "12182",
+		"hexCode": "#D2CBBF"
+	},
+	{
+		"id": "AZC5BFXS0D",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Tropic Ginger",
+		"code": "8070",
+		"hexCode": "#F2EAC6"
+	},
+	{
+		"id": "72TQCVF772",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Apple White",
+		"code": "8190",
+		"hexCode": "#F0F1DF"
+	},
+	{
+		"id": "Q8LCNQIKQJ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Deco Pink",
+		"code": "2782",
+		"hexCode": "#DBC4B7"
+	},
+	{
+		"id": "2JJ9HB4ROB",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Magical Ink",
+		"code": "8244",
+		"hexCode": "#D1D976"
+	},
+	{
+		"id": "R276816KCB",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Green Leaf",
+		"code": "8469",
+		"hexCode": "#8A8774"
+	},
+	{
+		"id": "4ND1I0B103",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Delightful Pink",
+		"code": "2992",
+		"hexCode": "#CBAB9D"
+	},
+	{
+		"id": "GZBT8F8E6X",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Kilim",
+		"code": "2993",
+		"hexCode": "#714F44"
+	},
+	{
+		"id": "CPXWQ1Z0FJ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Pangolin",
+		"code": "2061",
+		"hexCode": "#8D5841"
+	},
+	{
+		"id": "VD6TTBR9U0",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Royal Blue",
+		"code": "4224",
+		"hexCode": "#23517A"
+	},
+	{
+		"id": "0RRBG7VQUM",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Dragon Red",
+		"code": "0587",
+		"hexCode": "#883E3C"
+	},
+	{
+		"id": "NU0964I7B7",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Fresh Concrete",
+		"code": "0556",
+		"hexCode": "#9C9891"
+	},
+	{
+		"id": "B1IYYM1U3U",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Quick Sand",
+		"code": "1153",
+		"hexCode": "#B7894A"
+	},
+	{
+		"id": "ITZDZ6O23V",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Moon Reflection",
+		"code": "4072",
+		"hexCode": "#637989"
+	},
+	{
+		"id": "DNI75266N4",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Green Leaf",
+		"code": "8469",
+		"hexCode": "#8A8774"
+	},
+	{
+		"id": "W3HL213NFO",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Edelweiss",
+		"code": "1622",
+		"hexCode": "#EBE9E2"
+	},
+	{
+		"id": "TFBEZTTTGO",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Ebony",
+		"code": "9905",
+		"hexCode": "#ABA9A6"
+	},
+	{
+		"id": "BLQ6LFFCB7",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Misty Grey",
+		"code": "1143",
+		"hexCode": "#B9B4AB"
+	},
+	{
+		"id": "OS8RNXVLQG",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Coral",
+		"code": "2031",
+		"hexCode": "#E7BFB6"
+	},
+	{
+		"id": "A4WH1HURQ2",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Mindful Green",
+		"code": "7686",
+		"hexCode": "#7C877C"
+	},
+	{
+		"id": "ZQL721JHVJ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Silver Moon",
+		"code": "5081",
+		"hexCode": "#BBC0C0"
+	},
+	{
+		"id": "OV4B2PN3EE",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Soothing Beige",
+		"code": "12075",
+		"hexCode": "#CAC0AF"
+	},
+	{
+		"id": "J1MBRAFI88",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Pearl",
+		"code": "0121",
+		"hexCode": "#D6D5CD"
+	},
+	{
+		"id": "8RIKJOB6G8",
+		"brand": "Jotun",
+		"product": "",
+		"name": "White Satin",
+		"code": "0201",
+		"hexCode": "#E0E0D4"
+	},
+	{
+		"id": "EF5GMGCNIB",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Soft Grey",
+		"code": "0394",
+		"hexCode": "#AFA99C"
+	},
+	{
+		"id": "LWOLBJVHMB",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Wild Rice",
+		"code": "1012",
+		"hexCode": "#E9D8B8"
+	},
+	{
+		"id": "NNV2W7ZHXP",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Desert Sand",
+		"code": "1037",
+		"hexCode": "#E5DAC6"
+	},
+	{
+		"id": "CY5IZQ4U1X",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Almond Beige",
+		"code": "10966",
+		"hexCode": "#A69A88"
+	},
+	{
+		"id": "1AFM4QZZPF",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Norwegian Wood",
+		"code": "10981",
+		"hexCode": "#7F5C47"
+	},
+	{
+		"id": "8UCZ7YX83J",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Mohair",
+		"code": "1233",
+		"hexCode": "#A49A8B"
+	},
+	{
+		"id": "N8VEBZMMNW",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Herb Garden",
+		"code": "8183",
+		"hexCode": "#B2A87F"
+	},
+	{
+		"id": "QTROMDT3DD",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Dark Velvet",
+		"code": "3207",
+		"hexCode": "#70666C"
+	},
+	{
+		"id": "OIGC60DU2S",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Deco Blue",
+		"code": "4477",
+		"hexCode": "#525C64"
+	},
+	{
+		"id": "SIQNHONS0Q",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Syrin",
+		"code": "4496",
+		"hexCode": "#C2C0C4"
+	},
+	{
+		"id": "LR2JIPWBJ2",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Patina Rust",
+		"code": "8352",
+		"hexCode": "#EADBA8"
+	},
+	{
+		"id": "48JXCOET4O",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Dusky Blue",
+		"code": "5200",
+		"hexCode": "#9EADB2"
+	},
+	{
+		"id": "0EBYHIDL28",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Wondergrass",
+		"code": "8325",
+		"hexCode": "#C3C86D"
+	},
+	{
+		"id": "KQXPVMOVUP",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Dark Olive",
+		"code": "8264",
+		"hexCode": "#A19579"
+	},
+	{
+		"id": "685RA5KP4E",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Pirate",
+		"code": "5306",
+		"hexCode": "#8EC0C2"
+	},
+	{
+		"id": "QD6H00JJHU",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Betel",
+		"code": "7550",
+		"hexCode": "#ACC05D"
+	},
+	{
+		"id": "M6X4A264A3",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Jazz Grey",
+		"code": "9930",
+		"hexCode": "#B5B5B1"
+	},
+	{
+		"id": "XFZ2MPJKVW",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Scooter ",
+		"code": "5397",
+		"hexCode": "#618B8C"
+	},
+	{
+		"id": "G2PZYMS1DV",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Ivory White",
+		"code": "0566",
+		"hexCode": "#F4E9D6"
+	},
+	{
+		"id": "WCKPQ5E7TE",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Minty Breeze",
+		"code": "7163",
+		"hexCode": "#ACB2A8"
+	},
+	{
+		"id": "MQ6L3VHMN7",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Chi",
+		"code": "7236",
+		"hexCode": "#F3F4EE"
+	},
+	{
+		"id": "0EYGT2RO9F",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Amethyne",
+		"code": "4497",
+		"hexCode": "#B4A2C0"
+	},
+	{
+		"id": "VYV6ANYTFE",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Cherry Swift",
+		"code": "4492",
+		"hexCode": "#EBEBEA"
+	},
+	{
+		"id": "G78B42SDWU",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Sand Gazelle",
+		"code": "12201",
+		"hexCode": "#CFC0AE"
+	},
+	{
+		"id": "2NL27IQ5T9",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Cosmic Mocha",
+		"code": "12202",
+		"hexCode": "#B6A286"
+	},
+	{
+		"id": "NQG4L57G03",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Vanilla",
+		"code": "1453",
+		"hexCode": "#F0EFE2"
+	},
+	{
+		"id": "VKL4VJ5MJ8",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Citronella",
+		"code": "1633",
+		"hexCode": "#FFD998"
+	},
+	{
+		"id": "YJLRPOW3XE",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Wiltshire Cream",
+		"code": "1648",
+		"hexCode": "#F9E4C7"
+	},
+	{
+		"id": "URWFA92XNJ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Vision",
+		"code": "2228",
+		"hexCode": "#F0EBE1"
+	},
+	{
+		"id": "O1X3UD42YE",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Purple Ivory",
+		"code": "20192",
+		"hexCode": "#D5CAC2"
+	},
+	{
+		"id": "M2DJV325WA",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Gentile",
+		"code": "2048",
+		"hexCode": "#C28B6E"
+	},
+	{
+		"id": "YPQU617THQ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Bermuda Pink",
+		"code": "3243",
+		"hexCode": "#EFAAB3"
+	},
+	{
+		"id": "T5P8DOW4NS",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Patisserie",
+		"code": "2615",
+		"hexCode": "#F7B9B3"
+	},
+	{
+		"id": "YYEUP67Z9U",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Petal Pink",
+		"code": "3021",
+		"hexCode": "#EDCDCD"
+	},
+	{
+		"id": "0JVHM3C3WB",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Ashes",
+		"code": "9937",
+		"hexCode": "#60605F"
+	},
+	{
+		"id": "IFK3BDJ1EZ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Pashmina",
+		"code": "3186",
+		"hexCode": "#B49396"
+	},
+	{
+		"id": "DHW08AZ3KM",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Blue Lagoon",
+		"code": "4164",
+		"hexCode": "#6CA4D5"
+	},
+	{
+		"id": "8V4FM60XAM",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Blue Ash",
+		"code": "4399",
+		"hexCode": "#D8E8EC"
+	},
+	{
+		"id": "TZIGJD4ZWQ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Violet Sea",
+		"code": "4525",
+		"hexCode": "#5A6D99"
+	},
+	{
+		"id": "3E3AKZNK6Q",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Red Maple",
+		"code": "2727",
+		"hexCode": "#795956"
+	},
+	{
+		"id": "7JITXZGYMU",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Blue Whale",
+		"code": "5517",
+		"hexCode": "#7598A1"
+	},
+	{
+		"id": "A95S0SDIAA",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Coral Reef Blue",
+		"code": "6385",
+		"hexCode": "#8C9E9C"
+	},
+	{
+		"id": "2X0UJQB5SS",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Rustic Terracotta",
+		"code": "2771",
+		"hexCode": "#9F7D6A"
+	},
+	{
+		"id": "0MCUXTRLPH",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Apple Frost",
+		"code": "7270",
+		"hexCode": "#E5EDD6"
+	},
+	{
+		"id": "86FLWNQSFM",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Present",
+		"code": "12180",
+		"hexCode": "#B5AB9E"
+	},
+	{
+		"id": "84EM1CL5AH",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Rusty",
+		"code": "1259",
+		"hexCode": "#A47251"
+	},
+	{
+		"id": "QLB5BH5GQO",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Inspirasjon",
+		"code": "8195",
+		"hexCode": "#EEE2BE"
+	},
+	{
+		"id": "LI0WOAV64L",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Hollywood Hill",
+		"code": "8243",
+		"hexCode": "#95864B"
+	},
+	{
+		"id": "3XR59K5V5J",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Lemon Sorbet",
+		"code": "8245",
+		"hexCode": "#FCE99E"
+	},
+	{
+		"id": "4451GKF1RO",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Yaz",
+		"code": "8278",
+		"hexCode": "#C9AF55"
+	},
+	{
+		"id": "UL47L36TZO",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Rug",
+		"code": "1245",
+		"hexCode": "#DDBF9C"
+	},
+	{
+		"id": "QS17DE4SN9",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Front",
+		"code": "1899",
+		"hexCode": "#716F69"
+	},
+	{
+		"id": "MI3V6UCJTA",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Battleship Grey",
+		"code": "2109",
+		"hexCode": "#908580"
+	},
+	{
+		"id": "FDX6GYV50Z",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Old Fresco",
+		"code": "2458",
+		"hexCode": "#B8928C"
+	},
+	{
+		"id": "EMVTT6AIJ8",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Innocence",
+		"code": "2536",
+		"hexCode": "#EAD9CD"
+	},
+	{
+		"id": "2AAECFT2Q1",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Roast Coffee",
+		"code": "2549",
+		"hexCode": "#574840"
+	},
+	{
+		"id": "3ZST0V5QFJ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Midnight Blue",
+		"code": "4403",
+		"hexCode": "#3D464E"
+	},
+	{
+		"id": "SSKMB9WD11",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Evening Light",
+		"code": "4618",
+		"hexCode": "#77838C"
+	},
+	{
+		"id": "4JV1WK4ZLK",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Matt Silver",
+		"code": "4629",
+		"hexCode": "#82878B"
+	},
+	{
+		"id": "W8QE3DCAHL",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Silver Clay",
+		"code": "5045",
+		"hexCode": "#AFC0C4"
+	},
+	{
+		"id": "TQ3K5PHSEH",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Empire",
+		"code": "0520",
+		"hexCode": "#CBCBC9"
+	},
+	{
+		"id": "9HZY4G01ZG",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Khaki",
+		"code": "7039",
+		"hexCode": "#B5BAA2"
+	},
+	{
+		"id": "RT5M74P9C4",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Nature Oasis",
+		"code": "8079",
+		"hexCode": "#92947C"
+	},
+	{
+		"id": "1UN1AQPORA",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Suave",
+		"code": "9910",
+		"hexCode": "#727170"
+	},
+	{
+		"id": "JJ9I8KIF38",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Morning Fog",
+		"code": "9918",
+		"hexCode": "#F0EFEA"
+	},
+	{
+		"id": "PQHC3XF501",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Iron Grey",
+		"code": "1032",
+		"hexCode": "#AAA79F"
+	},
+	{
+		"id": "S0XRT51S6A",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Old Cream",
+		"code": "1154",
+		"hexCode": "#FAE9C5"
+	},
+	{
+		"id": "5TV42VUOCE",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Evening Stone",
+		"code": "1564",
+		"hexCode": "#686159"
+	},
+	{
+		"id": "YFCEUAKS2R",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Blushing Peach",
+		"code": "20047",
+		"hexCode": "#C3A590"
+	},
+	{
+		"id": "H67TBO1A8D",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Celestial",
+		"code": "4069",
+		"hexCode": "#A0ACB6"
+	},
+	{
+		"id": "EU874JRLQT",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Bayside Blue",
+		"code": "4096",
+		"hexCode": "#95B6CA"
+	},
+	{
+		"id": "V7UQDNK53T",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Brown Soil",
+		"code": "10254",
+		"hexCode": "#93897C"
+	},
+	{
+		"id": "15CV8710H0",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Lotus Root",
+		"code": "1108",
+		"hexCode": "#E4DDCA"
+	},
+	{
+		"id": "I053SNKF7J",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Twilight",
+		"code": "9904",
+		"hexCode": "#E1E1DD"
+	},
+	{
+		"id": "XHUOX6LHH6",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Chi",
+		"code": "7236",
+		"hexCode": "#F3F4EE"
+	},
+	{
+		"id": "R2BSBSBYX6",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Mars Dust",
+		"code": "10012",
+		"hexCode": "#AA795A"
+	},
+	{
+		"id": "HFAF6ALKS2",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Pure Yellow",
+		"code": "10394",
+		"hexCode": "#D7C09C"
+	},
+	{
+		"id": "ZUAJ0KRVJH",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Fresh Spring",
+		"code": "8083",
+		"hexCode": "#D9D9C8"
+	},
+	{
+		"id": "M05O382I20",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Cashew",
+		"code": "1931",
+		"hexCode": "#E3DDCD"
+	},
+	{
+		"id": "HFYSRYEUEI",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Deep Soil ",
+		"code": "2300",
+		"hexCode": "#7E6A62"
+	},
+	{
+		"id": "PA183G87R1",
+		"brand": "Jotun",
+		"product": "",
+		"name": "True Blue",
+		"code": "4947",
+		"hexCode": "#426884"
+	},
+	{
+		"id": "O5NEVD0J4L",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Subtle Green",
+		"code": "7685",
+		"hexCode": "#ABAF9B"
+	},
+	{
+		"id": "T31TWZBDMM",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Fahm",
+		"code": "9925",
+		"hexCode": "#696967"
+	},
+	{
+		"id": "6HH1HV0F7B",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Antwerp Beige",
+		"code": "12290",
+		"hexCode": "#B9AF9F"
+	},
+	{
+		"id": "RLIBYUYF0G",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Edelweiss",
+		"code": "1622",
+		"hexCode": "#EBE9E2"
+	},
+	{
+		"id": "THEDT7YPA6",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Palm Leaf",
+		"code": "0125",
+		"hexCode": "#758168"
+	},
+	{
+		"id": "4M0GEFFIZD",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Misty Shadow",
+		"code": "10578",
+		"hexCode": "#B7AFA3"
+	},
+	{
+		"id": "PYQ2TM3VQ1",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Modern Beige",
+		"code": "12076",
+		"hexCode": "#BFB3A3"
+	},
+	{
+		"id": "I8Y4KL3W9Y",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Nude Spice",
+		"code": "2591",
+		"hexCode": "#F9D7CB"
+	},
+	{
+		"id": "PAXKCUYAIA",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Pure Barley",
+		"code": "1334",
+		"hexCode": "#F5ECD6"
+	},
+	{
+		"id": "LQNJD5H5MZ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Little Princess",
+		"code": "3302",
+		"hexCode": "#EDE1E4"
+	},
+	{
+		"id": "SUJZTJGUB0",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Teal Zen",
+		"code": "4423",
+		"hexCode": "#A5BCC3"
+	},
+	{
+		"id": "XV1JFQ7I6M",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Persian Khaki",
+		"code": "1623",
+		"hexCode": "#AEA191"
+	},
+	{
+		"id": "REFG0XEVE7",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Thousand Nights",
+		"code": "4454",
+		"hexCode": "#DFE5E5"
+	},
+	{
+		"id": "4HRP7LVF76",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Milky Way",
+		"code": "1832",
+		"hexCode": "#E7DFCD"
+	},
+	{
+		"id": "EK0SPC2ASJ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Piper Grey",
+		"code": "4622",
+		"hexCode": "#78767B"
+	},
+	{
+		"id": "EW1S64X47H",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Sense",
+		"code": "1875",
+		"hexCode": "#E6DFCE"
+	},
+	{
+		"id": "YDDTUFIDNM",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Elegant Blue",
+		"code": "4638",
+		"hexCode": "#657078"
+	},
+	{
+		"id": "Q7RDYWBJOW",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Ocean Air",
+		"code": "4894",
+		"hexCode": "#9DAAAF"
+	},
+	{
+		"id": "V7KLZ2CYMP",
+		"brand": "Jotun",
+		"product": "",
+		"name": "St. Pauls Blue",
+		"code": "5030",
+		"hexCode": "#697477"
+	},
+	{
+		"id": "4PGE2TPNVD",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Oak Sand",
+		"code": "1987",
+		"hexCode": "#CD965B"
+	},
+	{
+		"id": "7MNP4ZSL1M",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Fusion",
+		"code": "5362",
+		"hexCode": "#4D6B6E"
+	},
+	{
+		"id": "PUUX34SZEC",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Platinum",
+		"code": "9911",
+		"hexCode": "#BDBDBA"
+	},
+	{
+		"id": "FKQHLD5G7I",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Matrix",
+		"code": "9913",
+		"hexCode": "#7B7A79"
+	},
+	{
+		"id": "UB3M51A0OA",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Lively Red",
+		"code": "20143",
+		"hexCode": "#A87362"
+	},
+	{
+		"id": "VXJ8SYD69J",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Exude Honey",
+		"code": "5281",
+		"hexCode": "#4A96A7"
+	},
+	{
+		"id": "R5BPG19MFY",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Cityscape",
+		"code": "6379",
+		"hexCode": "#8C9893"
+	},
+	{
+		"id": "NHV6CBJ3FN",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Wood Smoke",
+		"code": "0568",
+		"hexCode": "#DBCAB5"
+	},
+	{
+		"id": "BHWYY8PQMR",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Senses",
+		"code": "2024",
+		"hexCode": "#BEA795"
+	},
+	{
+		"id": "992X1MJCP9",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Sunkissed",
+		"code": "10541",
+		"hexCode": "#FCE5BB"
+	},
+	{
+		"id": "783MLCWLNQ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Yellowfin",
+		"code": "12185",
+		"hexCode": "#DEB679"
+	},
+	{
+		"id": "4PBNWWX36B",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Northern Mystic",
+		"code": "7613",
+		"hexCode": "#696D61"
+	},
+	{
+		"id": "9BXZMNSYGD",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Cornsilk",
+		"code": "1356",
+		"hexCode": "#F4EFDA"
+	},
+	{
+		"id": "LIM6B89M7R",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Antique Green",
+		"code": "7629",
+		"hexCode": "#8A8F81"
+	},
+	{
+		"id": "YQB8SAMCGR",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Exhale",
+		"code": "7637",
+		"hexCode": "#B7BDB3"
+	},
+	{
+		"id": "7RGZY1ZPVK",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Thought",
+		"code": "3323",
+		"hexCode": "#5E5457"
+	},
+	{
+		"id": "62LEB48VLF",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Linen Grey",
+		"code": "2105",
+		"hexCode": "#D5D1C9"
+	},
+	{
+		"id": "E3JCCMYBR0",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Spring Air",
+		"code": "8087",
+		"hexCode": "#D6CBA4"
+	},
+	{
+		"id": "0OVQ0HQFW9",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Amber Rush",
+		"code": "2613",
+		"hexCode": "#CD968F"
+	},
+	{
+		"id": "WRYXFI8BR0",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Crisp",
+		"code": "8118",
+		"hexCode": "#C5C6B8"
+	},
+	{
+		"id": "A2A0D1UQZG",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Suave",
+		"code": "9910",
+		"hexCode": "#727170"
+	},
+	{
+		"id": "R0CT5NY3ER",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Punch",
+		"code": "2456",
+		"hexCode": "#DE7569"
+	},
+	{
+		"id": "MGNUDFGK9U",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Cottonwood",
+		"code": "2500",
+		"hexCode": "#8A7E74"
+	},
+	{
+		"id": "9VV2JM1DQA",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Grey Event",
+		"code": "9912",
+		"hexCode": "#9E9F9D"
+	},
+	{
+		"id": "OEKRWL8OVG",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Beat",
+		"code": "2587",
+		"hexCode": "#C46854"
+	},
+	{
+		"id": "PWJW28LFU4",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Winter Willow",
+		"code": "8200",
+		"hexCode": "#E2D9A5"
+	},
+	{
+		"id": "F6P2JMQNP2",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Pink Clay",
+		"code": "3404",
+		"hexCode": "#AB8883"
+	},
+	{
+		"id": "TJMR9RPTI3",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Gladiola",
+		"code": "4178",
+		"hexCode": "#BFCEE1"
+	},
+	{
+		"id": "91HMZXT9JR",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Taaluk",
+		"code": "4214",
+		"hexCode": "#786087"
+	},
+	{
+		"id": "38ON8YPXE0",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Soft Lilac",
+		"code": "4448",
+		"hexCode": "#DCD5E6"
+	},
+	{
+		"id": "IH81L5SGYG",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Purple Candy",
+		"code": "4498",
+		"hexCode": "#9C8BA9"
+	},
+	{
+		"id": "H8GAZ2VZHI",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Inglot",
+		"code": "4508",
+		"hexCode": "#C4D4EB"
+	},
+	{
+		"id": "KTM3FN8YF6",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Lavender Touch",
+		"code": "20186",
+		"hexCode": "#BBB2AC"
+	},
+	{
+		"id": "JY6ICTOEX6",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Midnight Floss",
+		"code": "4521",
+		"hexCode": "#AFC2E0"
+	},
+	{
+		"id": "YA4G359P1U",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Snow-white",
+		"code": "5001",
+		"hexCode": "#E8EEEB"
+	},
+	{
+		"id": "AAMQUU3CXU",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Lime Peel",
+		"code": "8265",
+		"hexCode": "#D8D394"
+	},
+	{
+		"id": "LY1PGI03MU",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Friendly Pink",
+		"code": "20185",
+		"hexCode": "#C5B5A7"
+	},
+	{
+		"id": "0D27PIO1S2",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Imperial Jade",
+		"code": "6032",
+		"hexCode": "#75CCC4"
+	},
+	{
+		"id": "NXDW1KPILE",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Hibiscus",
+		"code": "2731",
+		"hexCode": "#9C5353"
+	},
+	{
+		"id": "EW2UMPYF66",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Warm Blush",
+		"code": "2856",
+		"hexCode": "#AB8073"
+	},
+	{
+		"id": "ZMFRXI8OUJ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Lime Mint",
+		"code": "8246",
+		"hexCode": "#E7CB63"
+	},
+	{
+		"id": "NY9JZ0WDPC",
+		"brand": "Jotun",
+		"product": "",
+		"name": "White Poetry",
+		"code": "8394",
+		"hexCode": "#DFDFD7"
+	},
+	{
+		"id": "IHI7YLY4J4",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Fresh Pasta",
+		"code": "1775",
+		"hexCode": "#E9DAB1"
+	},
+	{
+		"id": "6X6NZ0HL7J",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Smooth White",
+		"code": "8470",
+		"hexCode": "#CECBC0"
+	},
+	{
+		"id": "XI9CA2JQ74",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Olive",
+		"code": "8284",
+		"hexCode": "#B8A87F"
+	},
+	{
+		"id": "N4W6BJOUB8",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Silver Glass",
+		"code": "1268",
+		"hexCode": "#D0CFC7"
+	},
+	{
+		"id": "3K8RH6QH98",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Light Mocha",
+		"code": "2024",
+		"hexCode": "#BEA795"
+	},
+	{
+		"id": "EI2C6Q91PW",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Sandstone",
+		"code": "2496",
+		"hexCode": "#CCC1B4"
+	},
+	{
+		"id": "BME42ZNO6Y",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Midnight",
+		"code": "3165",
+		"hexCode": "#615C5B"
+	},
+	{
+		"id": "G4H0ORINHH",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Ruddy",
+		"code": "2794",
+		"hexCode": "#6E4D48"
+	},
+	{
+		"id": "FKLEDXSUAE",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Thunder Hero",
+		"code": "4226",
+		"hexCode": "#394F6C"
+	},
+	{
+		"id": "KE09KMGA2Y",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Thunder",
+		"code": "4687",
+		"hexCode": "#565E75"
+	},
+	{
+		"id": "PT0V01XIFY",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Near Dusk",
+		"code": "5276",
+		"hexCode": "#D4DEDF"
+	},
+	{
+		"id": "ZP2E2BJN4P",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Tar",
+		"code": "5366",
+		"hexCode": "#46494A"
+	},
+	{
+		"id": "EI81MN4CY1",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Alphine Snow",
+		"code": "6317",
+		"hexCode": "#E2E5E2"
+	},
+	{
+		"id": "1D8QKJ8VWL",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Dusty Green",
+		"code": "7543",
+		"hexCode": "#8D9B8D"
+	},
+	{
+		"id": "WSLJA778MM",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Thunder Grey",
+		"code": "8316",
+		"hexCode": "#C3C6B0"
+	},
+	{
+		"id": "JC3YU8GO6C",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Monsoon Cloud",
+		"code": "0562",
+		"hexCode": "#6A7275"
+	},
+	{
+		"id": "QL6W5LAXEZ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Yellow River",
+		"code": "1158",
+		"hexCode": "#D7A456"
+	},
+	{
+		"id": "8PD70NZ9OG",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Burned Sugar",
+		"code": "2097",
+		"hexCode": "#7C5E5A"
+	},
+	{
+		"id": "VRYT6R83YQ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Brushed Granite",
+		"code": "3230",
+		"hexCode": "#A9A6A4"
+	},
+	{
+		"id": "TD81DQJPTP",
+		"brand": "Jotun",
+		"product": "",
+		"name": "White Clay",
+		"code": "5272",
+		"hexCode": "#8F9494"
+	},
+	{
+		"id": "5DBJHMGQJ6",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Oolong",
+		"code": "8073",
+		"hexCode": "#CDB361"
+	},
+	{
+		"id": "OMQC3VDCWI",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Platinum",
+		"code": "9911",
+		"hexCode": "#BDBDBA"
+	},
+	{
+		"id": "MLR3A9LX8M",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Sea Emerald",
+		"code": "6084",
+		"hexCode": "#739592"
+	},
+	{
+		"id": "1E1LNZ7S0J",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Soya Milk",
+		"code": "1105",
+		"hexCode": "#F1EFE5"
+	},
+	{
+		"id": "UDGG7HK35L",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Elegant",
+		"code": "1434",
+		"hexCode": "#605D58"
+	},
+	{
+		"id": "W44QS0BICP",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Vanilla",
+		"code": "1453",
+		"hexCode": "#F0EFE2"
+	},
+	{
+		"id": "KFUO8G2173",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Identity",
+		"code": "1859",
+		"hexCode": "#CFC0A4"
+	},
+	{
+		"id": "GWPKUBUA34",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Gravel",
+		"code": "9933",
+		"hexCode": "#92928F"
+	},
+	{
+		"id": "Q1SFZFS7LO",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Early Rain",
+		"code": "0486",
+		"hexCode": "#EAE7DB"
+	},
+	{
+		"id": "AXF1N2WN2D",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Coppertone",
+		"code": "1029",
+		"hexCode": "#D5AD8E"
+	},
+	{
+		"id": "3AH1VSMY0O",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Gimle",
+		"code": "1217",
+		"hexCode": "#B37F4B"
+	},
+	{
+		"id": "V8XH6II695",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Maple Salmon",
+		"code": "2456",
+		"hexCode": "#DE7569"
+	},
+	{
+		"id": "3S7PZYHII4",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Comfort Grey",
+		"code": "12078",
+		"hexCode": "#BEB9AF"
+	},
+	{
+		"id": "YIP8229672",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Malmo",
+		"code": "8124",
+		"hexCode": "#E4DCBC"
+	},
+	{
+		"id": "XK5HF5DBEQ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Earthy Yellow",
+		"code": "8583",
+		"hexCode": "#CDBC94"
+	},
+	{
+		"id": "V8CI4RZQSU",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Rock Sugar",
+		"code": "1632",
+		"hexCode": "#BD9E7A"
+	},
+	{
+		"id": "I9WXRQWMYX",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Healing Lavender",
+		"code": "20218",
+		"hexCode": "#A59D9A"
+	},
+	{
+		"id": "0Q6SU0YEKI",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Sheer Grey",
+		"code": "12077",
+		"hexCode": "#CCC7BD"
+	},
+	{
+		"id": "O5THIU2CFH",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Antique White",
+		"code": "1016",
+		"hexCode": "#CDC5B5"
+	},
+	{
+		"id": "IMZQVRGYC5",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Timeless",
+		"code": "1024",
+		"hexCode": "#E0DDD3"
+	},
+	{
+		"id": "L0WI7O7FHE",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Soft Touch",
+		"code": "10290",
+		"hexCode": "#DCD0BF"
+	},
+	{
+		"id": "I8P48MPQ1J",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Complexion",
+		"code": "10579",
+		"hexCode": "#D7CEC0"
+	},
+	{
+		"id": "VC1VC0ZCWI",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Golden Bronze",
+		"code": "10963",
+		"hexCode": "#887760"
+	},
+	{
+		"id": "T5CB6U47PG",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Curious Mind",
+		"code": "11174",
+		"hexCode": "#B7A992"
+	},
+	{
+		"id": "3LB2PHZAK1",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Sand",
+		"code": "1140",
+		"hexCode": "#CFC5B4"
+	},
+	{
+		"id": "ACZALM81N8",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Band Stone",
+		"code": "1145",
+		"hexCode": "#7F7971"
+	},
+	{
+		"id": "2IDWV8RRP9",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Dusk Green",
+		"code": "7038",
+		"hexCode": "#C4C7B1"
+	},
+	{
+		"id": "VF9J99B8DY",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Hummus",
+		"code": "12118",
+		"hexCode": "#DACBB3"
+	},
+	{
+		"id": "DYCJP0JAUY",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Vintage Brown",
+		"code": "12119",
+		"hexCode": "#887D73"
+	},
+	{
+		"id": "CECPCKV58Y",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Sophisticated Red",
+		"code": "2951",
+		"hexCode": "#7B5953"
+	},
+	{
+		"id": "DIIDM9F9QQ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Soft",
+		"code": "1276",
+		"hexCode": "#DCD1BA"
+	},
+	{
+		"id": "HAN9VF7CYP",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Rose Leaf",
+		"code": "3114",
+		"hexCode": "#C28597"
+	},
+	{
+		"id": "TWA9A2TY3P",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Classic Blue",
+		"code": "4062",
+		"hexCode": "#B8C0CA"
+	},
+	{
+		"id": "I2OGRBLJBK",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Vanilla Latte",
+		"code": "1519",
+		"hexCode": "#E5DAC8"
+	},
+	{
+		"id": "L2BEBR2295",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Chameleon",
+		"code": "4424",
+		"hexCode": "#9D9BA2"
+	},
+	{
+		"id": "1GMGUEAJCT",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Alladin",
+		"code": "4468",
+		"hexCode": "#C1CDD4"
+	},
+	{
+		"id": "YWHB51MT9E",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Tangerine Blast",
+		"code": "1628",
+		"hexCode": "#E58040"
+	},
+	{
+		"id": "LKNOT8AVRL",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Warm Blue",
+		"code": "4624",
+		"hexCode": "#90969F"
+	},
+	{
+		"id": "N2MYFIPWKW",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Anonymous",
+		"code": "1864",
+		"hexCode": "#A68D6B"
+	},
+	{
+		"id": "UFYKMNSVMR",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Pebblestone",
+		"code": "1877",
+		"hexCode": "#96938B"
+	},
+	{
+		"id": "PXIB4SK71T",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Statement Blue",
+		"code": "4863",
+		"hexCode": "#395068"
+	},
+	{
+		"id": "CV7M41V6B6",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Clover Lane",
+		"code": "8323",
+		"hexCode": "#CED396"
+	},
+	{
+		"id": "D50J4A38FL",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Silky Pink",
+		"code": "20054",
+		"hexCode": "#BDA79F"
+	},
+	{
+		"id": "C56T79W8IZ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Blackened Black",
+		"code": "9938",
+		"hexCode": "#494948"
+	},
+	{
+		"id": "YPE9Y0BNPP",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Mosley",
+		"code": "7418",
+		"hexCode": "#8AB14E"
+	},
+	{
+		"id": "MG6MX1XO8K",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Natural Blue",
+		"code": "5503",
+		"hexCode": "#88959A"
+	},
+	{
+		"id": "D51VBL306R",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Daze Bayou",
+		"code": "5279",
+		"hexCode": "#2EA4B8"
+	},
+	{
+		"id": "ZEK755SVKQ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Ivory",
+		"code": "0567",
+		"hexCode": "#F2EAD6"
+	},
+	{
+		"id": "I9JTEOICR5",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Old Cream",
+		"code": "1154",
+		"hexCode": "#FAE9C5"
+	},
+	{
+		"id": "THLGN18TWI",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Arabian Tahr",
+		"code": "12184",
+		"hexCode": "#DDC4B1"
+	},
+	{
+		"id": "1NVGK4VHLD",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Bologna",
+		"code": "2115",
+		"hexCode": "#9C4B49"
+	},
+	{
+		"id": "G70IGTKRZO",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Oryx White",
+		"code": "12218",
+		"hexCode": "#F3F0E4"
+	},
+	{
+		"id": "6021RYCYFU",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Sugartop Mountain",
+		"code": "2202",
+		"hexCode": "#B9ADA7"
+	},
+	{
+		"id": "L4JU1TQVV1",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Refresh",
+		"code": "7627",
+		"hexCode": "#CACFC3"
+	},
+	{
+		"id": "OQNSUZJ2SC",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Orange Tart",
+		"code": "1787",
+		"hexCode": "#D79345"
+	},
+	{
+		"id": "5676A1K9BS",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Tea Flower",
+		"code": "2104",
+		"hexCode": "#E3DED5"
+	},
+	{
+		"id": "VBIA5ZGZ8P",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Aroma",
+		"code": "2169",
+		"hexCode": "#C5B1A8"
+	},
+	{
+		"id": "WW32G8B8Z5",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Pinkkins",
+		"code": "2612",
+		"hexCode": "#F8CDC4"
+	},
+	{
+		"id": "0H7TSWT7JW",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Coral Dune",
+		"code": "2604",
+		"hexCode": "#E26A5E"
+	},
+	{
+		"id": "RCFWMTC0J5",
+		"brand": "Jotun",
+		"product": "",
+		"name": "White Malva",
+		"code": "3144",
+		"hexCode": "#F0ECE6"
+	},
+	{
+		"id": "DC138AC332",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Moon Reflection",
+		"code": "4072",
+		"hexCode": "#637989"
+	},
+	{
+		"id": "3N21DVAHCU",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Eternal Blue",
+		"code": "4108",
+		"hexCode": "#A7D2E7"
+	},
+	{
+		"id": "HAC2UM3OA3",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Lunar Plum",
+		"code": "4150",
+		"hexCode": "#9FB5E0"
+	},
+	{
+		"id": "48KHB0C2SE",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Musk",
+		"code": "4447",
+		"hexCode": "#E8E5EB"
+	},
+	{
+		"id": "F7DMXXG2F5",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Fresh Feel",
+		"code": "4518",
+		"hexCode": "#C5DCEB"
+	},
+	{
+		"id": "VAX329T3ZB",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Ice Turquoise",
+		"code": "5136",
+		"hexCode": "#BAE2E6"
+	},
+	{
+		"id": "SDOXHJ49QI",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Flow",
+		"code": "6235",
+		"hexCode": "#B1C3C1"
+	},
+	{
+		"id": "ANRAMSFRC7",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Hint Of Green",
+		"code": "7001",
+		"hexCode": "#E9EDE7"
+	},
+	{
+		"id": "UZX648M3Q2",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Tangy",
+		"code": "10005",
+		"hexCode": "#F4A867"
+	},
+	{
+		"id": "BBTE8Q9YB6",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Golden Kiwi",
+		"code": "8306",
+		"hexCode": "#B39C59"
+	},
+	{
+		"id": "ZTIDWD182U",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Green Turtle",
+		"code": "7666",
+		"hexCode": "#778175"
+	},
+	{
+		"id": "XY9J875OIL",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Soft Comfort",
+		"code": "12181",
+		"hexCode": "#8A8176"
+	},
+	{
+		"id": "RGY93ZWH2R",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Akita",
+		"code": "8059",
+		"hexCode": "#E8D591"
+	},
+	{
+		"id": "LJM752MA0J",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Fresh Day",
+		"code": "8239",
+		"hexCode": "#DEE4A2"
+	},
+	{
+		"id": "TBF72Q3S01",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Brunette",
+		"code": "1258",
+		"hexCode": "#867563"
+	},
+	{
+		"id": "GTL70VSCC6",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Damascus Dusk",
+		"code": "2086",
+		"hexCode": "#CCA790"
+	},
+	{
+		"id": "495CY403QP",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Heavy Cream",
+		"code": "2595",
+		"hexCode": "#DAC4BA"
+	},
+	{
+		"id": "E4CRS9CKGC",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Brown Script",
+		"code": "2630",
+		"hexCode": "#8E6B66"
+	},
+	{
+		"id": "OPQ3PTFM3K",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Tropez",
+		"code": "4071",
+		"hexCode": "#8B9AA7"
+	},
+	{
+		"id": "ZHZUASNSLH",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Blue Marine",
+		"code": "4400",
+		"hexCode": "#384B5A"
+	},
+	{
+		"id": "TC2WG8XQ4W",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Mega Pipe",
+		"code": "4457",
+		"hexCode": "#A9B0B4"
+	},
+	{
+		"id": "KRB1JEREE5",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Pale Teal",
+		"code": "5043",
+		"hexCode": "#88B3B1"
+	},
+	{
+		"id": "6HX4O0OPM3",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Sour Onion",
+		"code": "7037",
+		"hexCode": "#D0D9CB"
+	},
+	{
+		"id": "XJ880M25LP",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Green Smoke",
+		"code": "7052",
+		"hexCode": "#7B7E69"
+	},
+	{
+		"id": "7A51II1M0W",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Autumn Leaf",
+		"code": "8044",
+		"hexCode": "#6D6C5B"
+	},
+	{
+		"id": "AX9WQ1CL23",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Secret Garden",
+		"code": "8427",
+		"hexCode": "#ACA782"
+	},
+	{
+		"id": "5D197DNYJP",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Cream",
+		"code": "0981",
+		"hexCode": "#EAE3D4"
+	},
+	{
+		"id": "SQPX9Q2U8C",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Pearl",
+		"code": "0121",
+		"hexCode": "#D6D5CD"
+	},
+	{
+		"id": "6FSNVL9IMD",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Blush Pink",
+		"code": "2046",
+		"hexCode": "#E9BEB3"
+	},
+	{
+		"id": "MCFUOG8GAW",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Rompin",
+		"code": "8064",
+		"hexCode": "#949346"
+	},
+	{
+		"id": "2W7KU24DXT",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Evening Sky",
+		"code": "1462",
+		"hexCode": "#84817A"
+	},
+	{
+		"id": "IA4MNMMHN8",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Sandbeige",
+		"code": "1939",
+		"hexCode": "#B7AD9C"
+	},
+	{
+		"id": "I2X5II6VKW",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Landscape",
+		"code": "8115",
+		"hexCode": "#978B71"
+	},
+	{
+		"id": "4VKGYRCXUW",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Creamy Beige",
+		"code": "10412",
+		"hexCode": "#DAD2C0"
+	},
+	{
+		"id": "5UXIOGKD4O",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Light Granite",
+		"code": "2040",
+		"hexCode": "#D3B9A5"
+	},
+	{
+		"id": "NEQJBB28VX",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Summer Sun",
+		"code": "10235",
+		"hexCode": "#E9CE8D"
+	},
+	{
+		"id": "OZYC065V3P",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Golden Lily",
+		"code": "10406",
+		"hexCode": "#F2BF55"
+	},
+	{
+		"id": "5Z0HLDTOP7",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Ice Poppy",
+		"code": "6279",
+		"hexCode": "#E2F0E8"
+	},
+	{
+		"id": "KUYD8PA2QD",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Solitude",
+		"code": "4099",
+		"hexCode": "#D5D3D8"
+	},
+	{
+		"id": "NV5VCGAL74",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Trend",
+		"code": "4136",
+		"hexCode": "#C2BEC6"
+	},
+	{
+		"id": "A1FLZPPB42",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Rural",
+		"code": "12085",
+		"hexCode": "#AF957A"
+	},
+	{
+		"id": "KYQK3QJHR8",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Mellow",
+		"code": "20162",
+		"hexCode": "#8B7467"
+	},
+	{
+		"id": "C69OOP9AQI",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Shade",
+		"code": "11130",
+		"hexCode": "#9D9385"
+	},
+	{
+		"id": "AH38RMWW8G",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Indi Pink",
+		"code": "2224",
+		"hexCode": "#D1B9AA"
+	},
+	{
+		"id": "O1HN0743K9",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Mist",
+		"code": "1376",
+		"hexCode": "#E5E0D4"
+	},
+	{
+		"id": "FIXY9YJEIF",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Green Tea",
+		"code": "8493",
+		"hexCode": "#9F9B7C"
+	},
+	{
+		"id": "K8JM9JOZ1N",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Limestone",
+		"code": "10341",
+		"hexCode": "#D9D3C7"
+	},
+	{
+		"id": "834ICNSQ79",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Sable Stone",
+		"code": "10342",
+		"hexCode": "#BBB4A7"
+	},
+	{
+		"id": "3MLUMD4QQQ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Soft Skin",
+		"code": "10580",
+		"hexCode": "#CBBBAC"
+	},
+	{
+		"id": "605M7PFMTA",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Humble Yellow",
+		"code": "11173",
+		"hexCode": "#D3C5AB"
+	},
+	{
+		"id": "A5M1J9OS9M",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Orchid",
+		"code": "1171",
+		"hexCode": "#E8DDC4"
+	},
+	{
+		"id": "PMAALOXKP7",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Devine",
+		"code": "12083",
+		"hexCode": "#D2BEA9"
+	},
+	{
+		"id": "AX1WAHMY0K",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Dusk Green",
+		"code": "7038",
+		"hexCode": "#C4C7B1"
+	},
+	{
+		"id": "5Q5COHJ93S",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Heat",
+		"code": "2994",
+		"hexCode": "#995F4D"
+	},
+	{
+		"id": "2V17AB9BCE",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Burnt Ochre",
+		"code": "1536",
+		"hexCode": "#C99765"
+	},
+	{
+		"id": "I3FDI8SC05",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Cappuccino",
+		"code": "1303",
+		"hexCode": "#CEBDA2"
+	},
+	{
+		"id": "6MSTR0XV1S",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Elderberry Crush",
+		"code": "3185",
+		"hexCode": "#B35668"
+	},
+	{
+		"id": "Z170EV0SMR",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Light",
+		"code": "1349",
+		"hexCode": "#F3E5C0"
+	},
+	{
+		"id": "B54RJP29IM",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Lucerne",
+		"code": "1563",
+		"hexCode": "#CDC6B4"
+	},
+	{
+		"id": "5HGEI6ZP0O",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Skylight",
+		"code": "1624",
+		"hexCode": "#F2F1E8"
+	},
+	{
+		"id": "Y3UQRTGLHA",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Evening Light",
+		"code": "4618",
+		"hexCode": "#77838C"
+	},
+	{
+		"id": "140GNUCEY3",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Satin Beige",
+		"code": "8011",
+		"hexCode": "#F1EFDB"
+	},
+	{
+		"id": "UA2SKSJ4EJ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Evergreen",
+		"code": "8479",
+		"hexCode": "#787664"
+	},
+	{
+		"id": "U0IEC2EABP",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Twilight",
+		"code": "9904",
+		"hexCode": "#E1E1DD"
+	},
+	{
+		"id": "NSEXEULQ4A",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Oxford River",
+		"code": "9915",
+		"hexCode": "#D5D4CF"
+	},
+	{
+		"id": "OIHMC9E984",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Nordic Breeze",
+		"code": "5452",
+		"hexCode": "#BBC6C8"
+	},
+	{
+		"id": "3DHLSD99FC",
+		"brand": "Jotun",
+		"product": "",
+		"name": "My Beirut",
+		"code": "20116",
+		"hexCode": "#CBA68F"
+	},
+	{
+		"id": "O7ZK7MN9AS",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Coastal Blue",
+		"code": "5504",
+		"hexCode": "#6D7D83"
+	},
+	{
+		"id": "F7OGSU1SGR",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Iron Blue",
+		"code": "5516",
+		"hexCode": "#6F7677"
+	},
+	{
+		"id": "0VCOB90OW4",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Urban Nile",
+		"code": "5277",
+		"hexCode": "#90CCD6"
+	},
+	{
+		"id": "NMH74UL7RZ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Iconic",
+		"code": "6378",
+		"hexCode": "#A1ABA6"
+	},
+	{
+		"id": "7Q30Q5FNWZ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Welcoming Red",
+		"code": "20167",
+		"hexCode": "#A06C5E"
+	},
+	{
+		"id": "28YVR0Y7HV",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Lavendar Whip",
+		"code": "4154",
+		"hexCode": "#98A8C7"
+	},
+	{
+		"id": "1GAFUPKR1M",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Treasure",
+		"code": "7628",
+		"hexCode": "#A3A798"
+	},
+	{
+		"id": "UYKYF7CD86",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Peppermint ",
+		"code": "8003",
+		"hexCode": "#E3E1D0"
+	},
+	{
+		"id": "9VUWZ2UA9L",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Deep Forest",
+		"code": "20193",
+		"hexCode": "#735256"
+	},
+	{
+		"id": "RGCHPZMRG5",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Tender Pink",
+		"code": "2396",
+		"hexCode": "#F4E8DF"
+	},
+	{
+		"id": "G1FRRNY9FX",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Dusky Pink",
+		"code": "2526",
+		"hexCode": "#CEB9AE"
+	},
+	{
+		"id": "Z2FX2XR6XB",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Jazz Yellow",
+		"code": "8353",
+		"hexCode": "#E7D07C"
+	},
+	{
+		"id": "Y2TXUUEFL0",
+		"brand": "Jotun",
+		"product": "",
+		"name": "April Green",
+		"code": "8109",
+		"hexCode": "#A4A178"
+	},
+	{
+		"id": "99S5EDK2UR",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Deep Mocca",
+		"code": "2732",
+		"hexCode": "#5C5853"
+	},
+	{
+		"id": "EPQYYU1QTH",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Ebony",
+		"code": "9905",
+		"hexCode": "#ABA9A6"
+	},
+	{
+		"id": "VP4TB5F5GN",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Shadow",
+		"code": "9932",
+		"hexCode": "#838381"
+	},
+	{
+		"id": "7REAY637HT",
+		"brand": "Jotun",
+		"product": "",
+		"name": "English Rose",
+		"code": "3183",
+		"hexCode": "#F2E1DF"
+	},
+	{
+		"id": "73HSERB2W4",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Sugar Cane",
+		"code": "8199",
+		"hexCode": "#B9B46D"
+	},
+	{
+		"id": "AOOMZW06YN",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Fiery Crush",
+		"code": "3247",
+		"hexCode": "#D77386"
+	},
+	{
+		"id": "UKH101UGHB",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Jurassic Grey",
+		"code": "8222",
+		"hexCode": "#CAC5A9"
+	},
+	{
+		"id": "KDBYGKY9Y7",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Ultra Violet",
+		"code": "4148",
+		"hexCode": "#889CC9"
+	},
+	{
+		"id": "NW0VR7966I",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Pink Zen",
+		"code": "2454",
+		"hexCode": "#F3A5A0"
+	},
+	{
+		"id": "DUEYGMTORA",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Parrot Blue",
+		"code": "4202",
+		"hexCode": "#4587C3"
+	},
+	{
+		"id": "KXF2KPV102",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Violet Peace",
+		"code": "4326",
+		"hexCode": "#CCDAEB"
+	},
+	{
+		"id": "DGLDICTI6O",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Thoughtful ",
+		"code": "20184",
+		"hexCode": "#B5A395"
+	},
+	{
+		"id": "LFKT6Z6AEW",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Atlantic Pool",
+		"code": "5206",
+		"hexCode": "#48BDD0"
+	},
+	{
+		"id": "XHVD36AGKR",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Caravan",
+		"code": "0280",
+		"hexCode": "#CCB394"
+	},
+	{
+		"id": "4JTE4IJTPV",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Cocoa Root",
+		"code": "1361",
+		"hexCode": "#A36F3E"
+	},
+	{
+		"id": "XX25XMRRO9",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Herbal Fusion",
+		"code": "8237",
+		"hexCode": "#E9EDBC"
+	},
+	{
+		"id": "IZ7ADIWVKE",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Golden Sunset",
+		"code": "1653",
+		"hexCode": "#F5B038"
+	},
+	{
+		"id": "Q0G1MYYHRB",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Oasis Treat",
+		"code": "8250",
+		"hexCode": "#565642"
+	},
+	{
+		"id": "EF8P46T8ZV",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Green Marble",
+		"code": "8422",
+		"hexCode": "#68665C"
+	},
+	{
+		"id": "W1NXK8FRUD",
+		"brand": "Jotun",
+		"product": "",
+		"name": "White Sand",
+		"code": "1235",
+		"hexCode": "#E2DAC9"
+	},
+	{
+		"id": "3OGL3VN6DH",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Tender Brown",
+		"code": "1916",
+		"hexCode": "#80766A"
+	},
+	{
+		"id": "216V8CBFY8",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Antique Brass",
+		"code": "2011",
+		"hexCode": "#BD9683"
+	},
+	{
+		"id": "2NRQ3YXCP1",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Roma",
+		"code": "2087",
+		"hexCode": "#B48368"
+	},
+	{
+		"id": "T4XRMQIDLZ",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Burned Terracotta",
+		"code": "2111",
+		"hexCode": "#9E6E63"
+	},
+	{
+		"id": "2N98ABXH5E",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Flint",
+		"code": "3003",
+		"hexCode": "#D3D0CC"
+	},
+	{
+		"id": "BT2U87LS0W",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Misty Sea",
+		"code": "4067",
+		"hexCode": "#B8BEC2"
+	},
+	{
+		"id": "VZRF41BXVT",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Classic Green",
+		"code": "6243",
+		"hexCode": "#39554F"
+	},
+	{
+		"id": "926SNTQ85A",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Adele",
+		"code": "7249",
+		"hexCode": "#595D5A"
+	},
+	{
+		"id": "2D4C7E9I93",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Thyme",
+		"code": "8304",
+		"hexCode": "#7C796E"
+	},
+	{
+		"id": "6TUOADF0IT",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Buried Treasure",
+		"code": "8357",
+		"hexCode": "#CDC2A6"
+	},
+	{
+		"id": "G2RSFKPTC6",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Mito",
+		"code": "1133",
+		"hexCode": "#B08D6C"
+	},
+	{
+		"id": "TPOWZWP4IS",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Power Puff",
+		"code": "2092",
+		"hexCode": "#BA8A7A"
+	},
+	{
+		"id": "9LSA52CZMT",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Shallow Wave",
+		"code": "4094",
+		"hexCode": "#C4DBE9"
+	},
+	{
+		"id": "TX5DLRVZS5",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Sky Safari",
+		"code": "4098",
+		"hexCode": "#66899C"
+	},
+	{
+		"id": "GOB8AEFDQS",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Chi",
+		"code": "7236",
+		"hexCode": "#F3F4EE"
+	},
+	{
+		"id": "88EXXKPWF0",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Timeless",
+		"code": "1024",
+		"hexCode": "#E0DDD3"
+	},
+	{
+		"id": "NCA1FD46CU",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Solid Steel",
+		"code": "9928",
+		"hexCode": "#5E605E"
+	},
+	{
+		"id": "ALAMIFEOWK",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Buttery Cream",
+		"code": "1155",
+		"hexCode": "#FAE2B0"
+	},
+	{
+		"id": "FY0XQVTOMI",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Sunny Spot",
+		"code": "8054",
+		"hexCode": "#EFCB6B"
+	},
+	{
+		"id": "PLM9V6XFZM",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Industry Blue",
+		"code": "5222",
+		"hexCode": "#C6D9DC"
+	},
+	{
+		"id": "IMW83WOBAC",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Pale Follie",
+		"code": "4277",
+		"hexCode": "#E2EAEB"
+	},
+	{
+		"id": "IMXJS8ISAV",
+		"brand": "Jotun",
+		"product": "",
+		"name": "Eternal Marine",
+		"code": "6051",
+		"hexCode": "#CFDFD3"
+	}
+]

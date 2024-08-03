@@ -3,6 +3,7 @@ import { twMerge } from 'tailwind-merge'
 
 import { FAVORITED_VALUE, LAZY_COMPONENT_DELAY } from '@/lib/constants'
 import { CMYK, Color, ColorSort, LAB, RGB, XYZ } from '@/lib/types'
+import { customAlphabet } from 'nanoid'
 
 export function cn(...inputs: ClassValue[]) {
 	return twMerge(clsx(inputs))
@@ -231,4 +232,14 @@ export function formatLAB(lab: LAB): string {
 
 export function formatCMYK(cmyk: CMYK): string {
 	return `CMYK(${cmyk.c / 100}, ${cmyk.m / 100}, ${cmyk.y / 100}, ${cmyk.k / 100})`
+}
+
+export function nanoid(
+	{ size = 10, prefix }: { size?: number; prefix?: string } = { size: 10 },
+): string {
+	const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789'
+
+	return prefix && prefix.length !== 0
+		? `${prefix}-${customAlphabet(alphabet, size)()}`
+		: customAlphabet(alphabet, size)()
 }
