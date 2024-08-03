@@ -5,6 +5,7 @@ import Tools from '@/components/color/tools'
 
 import { Color } from '@/lib/types'
 import { cn, getIsTextDarkColor, getOppositeContrast } from '@/lib/utils'
+import { DotIcon } from 'lucide-react'
 
 interface PaletteProps {
 	color: Color
@@ -17,9 +18,9 @@ export default function Palette({ color }: PaletteProps) {
 	return (
 		<div
 			style={{ backgroundColor: color.hexCode }}
-			className="group/palette flex h-32 flex-col rounded-md shadow-md transition-transform duration-500 hover:scale-110"
+			className="group/palette flex h-32 flex-col justify-between gap-4 rounded-md shadow-md transition-transform duration-500 hover:scale-110"
 		>
-			<div className="flex items-center justify-between gap-4 p-2">
+			<div className="flex items-center justify-between gap-4 px-2 pt-2">
 				<Tools
 					colorId={color.id}
 					hexCode={color.hexCode}
@@ -37,8 +38,24 @@ export default function Palette({ color }: PaletteProps) {
 					)}
 				/>
 			</div>
-			<div className={cn('mt-auto flex justify-between gap-2 p-4', textColor)}>
-				<p>{color.name}</p>
+			<div
+				className={cn(
+					'flex items-end justify-between gap-2 px-4 pb-4',
+					textColor,
+				)}
+			>
+				<div className="flex flex-col">
+					<div className="flex items-center">
+						<p className="text-xs">{color.brand}</p>
+						{color.product && (
+							<>
+								<DotIcon className="size-4 shrink-0" />
+								<p className="text-xs">{color.product}</p>
+							</>
+						)}
+					</div>
+					<p className="font-semibold">{color.name}</p>
+				</div>
 				<p>{color.code}</p>
 			</div>
 		</div>
