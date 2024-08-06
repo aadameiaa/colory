@@ -3,9 +3,8 @@ import { COLOR_SORTS } from '@/lib/constants'
 export type Color = {
 	id: string
 	brand: string
-	product: string
 	name: string
-	code: string
+	code?: string
 	hexCode: string
 }
 

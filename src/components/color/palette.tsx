@@ -5,7 +5,6 @@ import Tools from '@/components/color/tools'
 
 import { Color } from '@/lib/types'
 import { cn, getIsTextDarkColor, getOppositeContrast } from '@/lib/utils'
-import { DotIcon } from 'lucide-react'
 
 interface PaletteProps {
 	color: Color
@@ -47,12 +46,6 @@ export default function Palette({ color }: PaletteProps) {
 				<div className="flex flex-col">
 					<div className="flex items-center">
 						<p className="text-xs">{color.brand}</p>
-						{color.product && (
-							<>
-								<DotIcon className="size-4 shrink-0" />
-								<p className="text-xs">{color.product}</p>
-							</>
-						)}
 					</div>
 					<p className="font-semibold">{color.name}</p>
 				</div>
