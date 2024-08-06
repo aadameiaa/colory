@@ -167,11 +167,19 @@ function applyColorSort(colors: Color[], sort: ColorSort): Color[] {
 			)
 		case 'asc-code':
 			return colors.sort((a, b) =>
-				a.code.toLowerCase() <= b.code.toLowerCase() ? -1 : 1,
+				a.code && b.code
+					? a.code.toLowerCase() <= b.code.toLowerCase()
+						? -1
+						: 1
+					: 0,
 			)
 		case 'desc-code':
 			return colors.sort((a, b) =>
-				a.code.toLowerCase() > b.code.toLowerCase() ? -1 : 1,
+				a.code && b.code
+					? a.code.toLowerCase() > b.code.toLowerCase()
+						? -1
+						: 1
+					: 0,
 			)
 		default:
 			return colors
@@ -193,7 +201,7 @@ export function applyColorFilters(
 		filteredColors = filteredColors.filter(
 			(color) =>
 				color.name.toLowerCase().includes(query.toLowerCase()) ||
-				color.code.toLowerCase().includes(query.toLowerCase()),
+				(color.code && color.code.toLowerCase().includes(query.toLowerCase())),
 		)
 	}
 

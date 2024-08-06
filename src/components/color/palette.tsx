@@ -49,7 +49,7 @@ export default function Palette({ color }: PaletteProps) {
 					</div>
 					<p className="font-semibold">{color.name}</p>
 				</div>
-				<p>{color.code}</p>
+				{color.code && <p>{color.code}</p>}
 			</div>
 		</div>
 	)

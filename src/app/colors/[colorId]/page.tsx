@@ -71,7 +71,7 @@ export default function ColorPage({
 				</Button>
 				<div className="flex w-[170px] flex-col items-center justify-center text-center">
 					<h3 className="text-xl font-bold">{color.name}</h3>
-					<p>{color.code}</p>
+					{color.code && <p>{color.code}</p>}
 				</div>
 				<Button
 					variant="outline"
