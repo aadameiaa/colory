@@ -171,7 +171,7 @@ function applyColorSort(colors: Color[], sort: ColorSort): Color[] {
 					? a.code.toLowerCase() <= b.code.toLowerCase()
 						? -1
 						: 1
-					: 0,
+					: -1,
 			)
 		case 'desc-code':
 			return colors.sort((a, b) =>
@@ -179,7 +179,7 @@ function applyColorSort(colors: Color[], sort: ColorSort): Color[] {
 					? a.code.toLowerCase() > b.code.toLowerCase()
 						? -1
 						: 1
-					: 0,
+					: -1,
 			)
 		default:
 			return colors

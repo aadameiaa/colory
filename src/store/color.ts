@@ -1,6 +1,7 @@
 import { create } from 'zustand'
 import { createJSONStorage, persist } from 'zustand/middleware'
 
+import duluxColors from '@/data/dulux-colors.json'
 import jotunColors from '@/data/jotun-colors.json'
 import noDropColors from '@/data/no-drop-colors.json'
 import vinilexColors from '@/data/vinilex-colors.json'
@@ -21,7 +22,12 @@ type ColorActions = {
 }
 
 const initialState: ColorState = {
-	colors: [...vinilexColors, ...jotunColors, ...noDropColors].map((color) => ({
+	colors: [
+		...duluxColors,
+		...jotunColors,
+		...noDropColors,
+		...vinilexColors,
+	].map((color) => ({
 		id: nanoid(),
 		...color,
 	})),
