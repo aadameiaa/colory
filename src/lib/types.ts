@@ -1,4 +1,4 @@
-import { COLOR_SORTS } from '@/lib/constants'
+import { COLOR_BRANDS, COLOR_SORTS } from '@/lib/constants'
 
 export type Color = {
 	id: string
@@ -34,3 +34,4 @@ export type CMYK = {
 }
 
 export type ColorSort = (typeof COLOR_SORTS)[number]
+export type ColorBrand = (typeof COLOR_BRANDS)[number]
