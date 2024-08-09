@@ -1,9 +1,9 @@
 import { type ClassValue, clsx } from 'clsx'
+import { customAlphabet } from 'nanoid'
 import { twMerge } from 'tailwind-merge'
 
 import { FAVORITED_VALUE, LAZY_COMPONENT_DELAY } from '@/lib/constants'
-import { CMYK, Color, ColorSort, LAB, RGB, XYZ } from '@/lib/types'
-import { customAlphabet } from 'nanoid'
+import { CMYK, Color, ColorBrand, ColorSort, LAB, RGB, XYZ } from '@/lib/types'
 
 export function cn(...inputs: ClassValue[]) {
 	return twMerge(clsx(inputs))
@@ -186,6 +186,10 @@ function applyColorSort(colors: Color[], sort: ColorSort): Color[] {
 	}
 }
 
+function parseColorBrand(brand: string): ColorBrand {
+	return brand.toLowerCase().replace(' ', '-') as ColorBrand
+}
+
 export function applyColorFilters(
 	colors: Color[],
 	favoriteColorIds: Color['id'][],
@@ -193,7 +197,13 @@ export function applyColorFilters(
 		query,
 		isFavorited,
 		sort,
-	}: { query?: string; isFavorited?: boolean; sort?: ColorSort },
+		brand,
+	}: {
+		query?: string
+		isFavorited?: boolean
+		sort?: ColorSort
+		brand?: ColorBrand
+	},
 ): Color[] {
 	let filteredColors = [...colors]
 
@@ -213,6 +223,12 @@ export function applyColorFilters(
 
 	if (sort) {
 		filteredColors = applyColorSort(filteredColors, sort)
+	}
+
+	if (brand) {
+		filteredColors = filteredColors.filter(
+			(color) => parseColorBrand(color.brand) === brand,
+		)
 	}
 
 	return filteredColors

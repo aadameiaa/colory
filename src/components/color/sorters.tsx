@@ -19,9 +19,9 @@ export default function Sorters() {
 	const pathname = usePathname()
 	const searchParams = useSearchParams()
 
-	const sort = searchParams.get(SORT_PARAM) || ''
+	const sort = searchParams.get(SORT_PARAM) || undefined
 
-	const setSortParam = (value: string) => {
+	const setSortParam = (value: ColorSort) => {
 		const urlSearchParams = new URLSearchParams(searchParams)
 
 		sort === value
@@ -39,7 +39,7 @@ export default function Sorters() {
 	]
 
 	return (
-		<div className="flex items-center justify-center gap-2">
+		<div className="flex h-10 w-fit items-center justify-center gap-2">
 			{sorters.map((sorter) => {
 				const Icon = sorter.icon
 				const isActive = sort === sorter.id
@@ -47,7 +47,7 @@ export default function Sorters() {
 				return (
 					<Button
 						key={sorter.id}
-						variant={isActive ? 'secondary' : 'outline'}
+						variant={isActive ? 'default' : 'secondary'}
 						size="icon"
 						className="shrink-0"
 						onClick={() => setSortParam(sorter.id)}

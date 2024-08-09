@@ -18,10 +18,7 @@ export default function PalettesSkeleton({
 				gridTemplateColumns: gridAutoColumn('fill', '250px', '1fr'),
 				...style,
 			}}
-			className={cn(
-				'mx-auto grid flex-1 place-content-start gap-4 px-6 md:max-w-xl',
-				className,
-			)}
+			className={cn('mx-auto grid flex-1 place-content-start gap-4', className)}
 			{...props}
 		>
 			{Array.from({ length: size }, (_, index) => index + 1).map((id) => (
