@@ -29,10 +29,10 @@ export default function Filters() {
 	}
 
 	return (
-		<div className="flex flex-col gap-2">
-			<div className="flex items-center gap-2">
+		<div className="flex flex-col gap-6">
+			<div className="flex items-center gap-4">
 				<Button
-					variant="ghost"
+					variant="secondary"
 					size="icon"
 					className="shrink-0"
 					onClick={handleFavoritedClick}

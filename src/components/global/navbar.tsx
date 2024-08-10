@@ -30,11 +30,11 @@ export default function Navbar() {
 	return (
 		<nav
 			className={cn(
-				'sticky inset-x-0 top-6 z-10 mx-auto flex h-fit w-[250px] flex-col gap-2 rounded-md p-2 md:ml-4',
+				'sticky inset-x-0 top-6 z-10 mx-auto flex h-fit w-[250px] flex-col gap-6 rounded-md p-2 md:ml-4',
 				isScrolled && 'bg-background/20 shadow-sm backdrop-blur-sm',
 			)}
 		>
-			<div className="flex items-center gap-2">
+			<div className="flex items-center gap-4">
 				{isSmallDevice && (
 					<Button
 						variant="secondary"

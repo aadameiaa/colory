@@ -22,16 +22,16 @@ export default function NavbarSkeleton() {
 	return (
 		<nav
 			className={cn(
-				'sticky inset-x-0 top-6 z-10 mx-auto flex h-fit w-[250px] flex-col gap-2 rounded-md p-2 md:ml-4',
+				'sticky inset-x-0 top-6 z-10 mx-auto flex h-fit w-[250px] flex-col gap-6 rounded-md p-2 md:ml-4',
 				isScrolled && 'bg-background/20 shadow-sm backdrop-blur-sm',
 			)}
 		>
-			<div className="flex items-center gap-2">
+			<div className="flex items-center gap-4">
 				<Skeleton className="size-10 shrink-0" />
 				<Skeleton className="h-10 w-full" />
 			</div>
-			<div className="flex flex-col gap-2">
-				<div className="flex items-center gap-2">
+			<div className="flex flex-col gap-6">
+				<div className="flex items-center gap-4">
 					<Skeleton className="size-10 shrink-0" />
 					<div className="flex h-10 w-fit items-center justify-center gap-2 rounded-md">
 						<Skeleton className="size-10 shrink-0" />
