@@ -6,8 +6,8 @@ import { nanoid } from '@/lib/utils'
 
 import duluxColors from '@/data/dulux-colors.json'
 import jotunColors from '@/data/jotun-colors.json'
+import nipponPaintColors from '@/data/nippon-paint-colors.json'
 import noDropColors from '@/data/no-drop-colors.json'
-import vinilexColors from '@/data/vinilex-colors.json'
 
 type ColorState = {
 	colors: Color[]
@@ -26,8 +26,8 @@ const initialState: ColorState = {
 	colors: [
 		...duluxColors,
 		...jotunColors,
+		...nipponPaintColors,
 		...noDropColors,
-		...vinilexColors,
 	].map((color) => ({
 		id: nanoid(),
 		...color,
