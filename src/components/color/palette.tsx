@@ -17,7 +17,7 @@ export default function Palette({ color }: PaletteProps) {
 	return (
 		<div
 			style={{ backgroundColor: color.hexCode }}
-			className="group/palette flex h-32 max-w-[250px] flex-col justify-between gap-4 rounded-md shadow-md transition-transform duration-500 hover:scale-110"
+			className="group/palette flex h-40 flex-col justify-between gap-4 rounded-md shadow-md transition-transform duration-500 hover:scale-110"
 		>
 			<div className="flex items-center justify-between gap-4 px-2 pt-2">
 				<Tools
@@ -37,11 +37,11 @@ export default function Palette({ color }: PaletteProps) {
 					)}
 				/>
 			</div>
-			<div className={cn('flex flex-col px-4 pb-4', textColor)}>
+			<div className={cn('flex flex-col gap-1 px-4 pb-4', textColor)}>
 				<p className="text-xs">{color.brand}</p>
-				<div className="flex items-center justify-between gap-4">
+				<div className="flex flex-col">
 					<p className="truncate font-semibold">{color.name}</p>
-					{color.code && <p className="w-[100px] text-right">{color.code}</p>}
+					{color.code && <p className="truncate">{color.code}</p>}
 				</div>
 			</div>
 		</div>
